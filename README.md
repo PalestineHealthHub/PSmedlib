@@ -24,15 +24,14 @@ We warmly welcome contributions from the community! If you have relevant resourc
 
 ## Resources
 ### Academic Papers & Books
-- [Research Papers](/Literature/Research)
-- [Policy Papers](/Literature/Policy)
-- [Books](/Literature/Books)
+- [Research Papers](/Literature/research.md)
+- [Books](/Literature/books.md)
 
 ### Essays & Articles
-- [Essays](/Articles/Essays)
-- [News Articles](/Articles/News)
-- [Opinion Pieces](/Articles/Opinion)
-- [Articles by Int. Organizations](/Articles/Organizations)
+- [Essays](/Articles/essays.md)
+- [News Articles](/Articles/news.md)
+- [Opinion Pieces](/Articles/opinion.md)
+- [Articles by Int. Organizations](/Articles/organization.md)
 
 ### Documentaries
-- [Documentary List](/Documentaries)
+- [Documentary List](/Documentaries/documentaries.md)
