@@ -12,20 +12,20 @@ Our repository is dedicated to curating and disseminating a range of resources r
 ## Table of Contents
 - [Resources](#resources)
   - [Academic Papers & Books](#academic-papers--books)
-  - [Essays & Articles](#essays--articles)
+  - [Essays & Articles](#essays--articles--reports)
   - [Documentaries](#documentaries)
 - [How to Contribute](#how-to-contribute)
 
 ## Resources
 ### Academic Papers & Books
-- [Research Papers](/Literature/research.md)
+- [Research Papers](/Literature/papers.md)
 - [Books](/Literature/books.md)
 
-### Essays & Articles
+### Essays, Articles & Reports
+- [Reports by Int. Organizations](/Articles/organization.md)
 - [Essays](/Articles/essays.md)
-- [News Articles](/Articles/news.md)
-- [Opinion Pieces](/Articles/opinion.md)
-- [Articles by Int. Organizations](/Articles/organization.md)
+- [News Articles & Opinion Pieces](/Articles/news.md)
+
 
 ### Documentaries
 - [Documentary List](/Documentaries/documentaries.md)
