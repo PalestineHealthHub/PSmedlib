@@ -4,17 +4,11 @@ Welcome to **PSmedlib**, a resource repository dedicated to the healthcare syste
 
 ## Table of Contents
 - [About the Repository](#about-the-repository)
-- [How to Contribute](#how-to-contribute)
 - [Resources](#resources)
   - [Academic Papers & Books](#academic-papers--books)
   - [Essays & Articles](#essays--articles)
   - [Documentaries](#documentaries)
-- [Healthcare Infrastructure](#healthcare-infrastructure)
-- [Medical Conditions and Treatments](#medical-conditions-and-treatments)
-- [Events and Conferences](#events-and-conferences)
-- [Contacts and Networking](#contacts-and-networking)
-- [Miscellaneous](#miscellaneous)
-- [License](#license)
+- [How to Contribute](#how-to-contribute)
 
 ## About the Repository
 Our repository is dedicated to curating and disseminating a range of resources related to the Palestinian healthcare system. We aim to provide valuable insights for researchers, practitioners, policymakers, and anyone interested in gaining an understanding of the devastation of the healthcare system in Palestine.
