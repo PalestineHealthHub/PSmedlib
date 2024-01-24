@@ -12,7 +12,7 @@ Our repository is dedicated to curating and disseminating a range of resources r
 ## Resources
 ### Academic Papers & Books
 - [Research Papers](/resources/papers.md)
-- [Books](/Literature/books.md)
+- [Books](/resources/books.md)
 
 ### Essays, Articles & Reports
 - [Reports by Global Health & Humanitarian Organizations](/resources/int_reports.md)
