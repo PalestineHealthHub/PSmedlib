@@ -5,7 +5,7 @@
 
 # Palestine MedLib
 
-Welcome to **PSmedlib**, a resource repository dedicated to the healthcare system in Palestine. This platform serves as a centralized hub, offering a diverse array of materials such as academic papers, books, reports, and documentaries. These resources focus primarily on war-related healthcare, including healthcare infrastructure, war injuries, technology in healthcare, and psychological trauma.
+Welcome to the first Palestine Health Hub initiative: **PSmedlib**, a resource repository dedicated to the healthcare system in Palestine. This platform serves as a centralized hub, offering a diverse array of materials such as academic papers, books, reports, and documentaries. These resources focus primarily on war-related healthcare, including healthcare infrastructure, war injuries, technology in healthcare, and psychological trauma.
 
 This repository aims to provide valuable insights for researchers, practitioners, policymakers, and anyone interested in understanding the impact of conflict on the healthcare system in Palestine.
 
