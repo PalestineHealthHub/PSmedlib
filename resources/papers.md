@@ -16,7 +16,7 @@
 - [**Inside Gaza's Al-Shifa hospital**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)60057-X/fulltext) _(2009)_ published in _Lancet_
 
 
-## Socio-political Perspectives
+## Socio-political Perspectives on Healthcare in Palestine
 - [**Medical duty and advocacy for Palestine**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00012-6/fulltext) _(2024)_ published in _Lancet_
 - [**No evidence of inflated mortality reporting from the Gaza Ministry of Health**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02713-7/fulltext) _(2024)_ published in _Lancet_
 - [**Amputating the Body, Fragmenting the Nation: Palestinian Amputees in Gaza**](https://www.hhrjournal.org/2022/12/amputating-the-body-fragmenting-the-nation-palestinian-amputees-in-gaza/) _(2022)_ published in _Health Hum Rights_
