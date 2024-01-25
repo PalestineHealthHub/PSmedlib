@@ -1,5 +1,6 @@
 # Academic Papers
 
+
 ## War-Related Injuries: Medical, Psychological, and Surgical Perspectives
 - [**A review of the first wave of lower limb amputees from the Great March of Return in Gaza: Taking stock and preparing for the task ahead**](https://www.injuryjournal.com/article/S0020-1383(22)00349-7/fulltext) _(2022)_ published in _Injury_
 - [**Long-term health effects after conflict-related traumatic amputation among patients in Gaza**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01516-6/fulltext) _(2021)_ published in _The Lancet_
@@ -13,16 +14,9 @@
 - [**Patient flow and medical consequences of the Israeli operation Pillar of Defence: a retrospective study**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62585-4/fulltext) _(2013)_ published in _Lancet_
 - [**Inside Gaza's Al-Shifa hospital**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)60057-X/fulltext) _(2009)_ published in _Lancet_
 
+
 ## Socio-political Perspectives
 - [**Medical duty and advocacy for Palestine**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00012-6/fulltext) _(2024)_ published in _The Lancet_
 - [**No evidence of inflated mortality reporting from the Gaza Ministry of Health**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02713-7/fulltext) _(2024)_ published in _Lancet_
 - [**Amputating the Body, Fragmenting the Nation: Palestinian Amputees in Gaza**](https://www.hhrjournal.org/2022/12/amputating-the-body-fragmenting-the-nation-palestinian-amputees-in-gaza/) _(2022)_ published in _Health Hum Rights_
 - [**The burden of war-injury in the Palestinian health care sector in Gaza Strip**](https://bmcinthealthhumrights.biomedcentral.com/articles/10.1186/s12914-018-0165-3#:~:text=The%20overall%20number%20of%20injuries,(4.7)%20per%201000%20population.) _(2018)_ published in _BMC International Health and Human Rights_
-
-
-
-[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
-
-[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
-
-[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
