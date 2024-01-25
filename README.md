@@ -20,7 +20,7 @@ This repository aims to provide valuable insights for researchers, practitioners
 
 
 ### Documentaries
-- [Documentary List](/Documentaries/documentaries.md)
+- [Documentary List](/resources/documentaries.md)
 
 
 ## How to Contribute
