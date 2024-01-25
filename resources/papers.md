@@ -9,6 +9,9 @@
 - [**Traumatic amputations caused by drone attacks in the local population in Gaza: a retrospective cross-sectional study.**](https://linkinghub.elsevier.com/retrieve/pii/S2542519618302651) _(2019)_ published in _Lancet Planet Health_
 - [**Life after conflict-related amputation trauma: a clinical study from the Gaza Strip**](https://bmcinthealthhumrights.biomedcentral.com/articles/10.1186/s12914-018-0173-3) _(2018)_ published in _BMC Int Health Hum Rights_
 - [**Severe extremity amputations in surviving Palestinian civilians caused by explosives fired from drones during the Gaza War**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30381-7/fulltext) _(2018)_ published in _The Lancet_
+- [**Patient flow, triage, and mortality in Al-Shifa hospital during the Israeli operation Protective Edge, 2014, in the Gaza Strip: a review of hospital record data**](https://www.sciencedirect.com/science/article/abs/pii/S0140673617320779) _(2017)_ published in _Lancet_
+- [**Patient flow and medical consequences of the Israeli operation Pillar of Defence: a retrospective study**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62585-4/fulltext) _(2013)_ published in _Lancet_
+- [**Inside Gaza's Al-Shifa hospital**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)60057-X/fulltext) _(2009)_ published in _Lancet_
 
 ## Socio-political Perspectives
 - [**Medical duty and advocacy for Palestine**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00012-6/fulltext) _(2024)_ published in _The Lancet_
@@ -16,4 +19,10 @@
 - [**Amputating the Body, Fragmenting the Nation: Palestinian Amputees in Gaza**](https://www.hhrjournal.org/2022/12/amputating-the-body-fragmenting-the-nation-palestinian-amputees-in-gaza/) _(2022)_ published in _Health Hum Rights_
 - [**The burden of war-injury in the Palestinian health care sector in Gaza Strip**](https://bmcinthealthhumrights.biomedcentral.com/articles/10.1186/s12914-018-0165-3#:~:text=The%20overall%20number%20of%20injuries,(4.7)%20per%201000%20population.) _(2018)_ published in _BMC International Health and Human Rights_
 
-- [**Paper Title**](link) _(Year)_ published in _Journal_
+
+
+[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
+
+[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
+
+[comment]: <> (- [**Paper Title**]&#40;link&#41; _&#40;Year&#41;_ published in _Journal_)
