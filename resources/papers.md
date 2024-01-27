@@ -17,8 +17,11 @@
 
 
 ## Socio-political Perspectives on Healthcare in Palestine
+- [**Morphine for Gaza? Limits of care during genocidal violence**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00014-X/fulltext) _(2024)_ published in _Lancet_
+- [**Wars are never necessary: Gaza is the best example**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00013-8/fulltext) _(2024)_ published in _Lancet_
 - [**Medical duty and advocacy for Palestine**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00012-6/fulltext) _(2024)_ published in _Lancet_
 - [**No evidence of inflated mortality reporting from the Gaza Ministry of Health**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02713-7/fulltext) _(2024)_ published in _Lancet_
+- [**Offline: Gaza's children—a responsibility to protect**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02443-1/fulltext#%20) _(2023)_ published in _Lancet_
 - [**Amputating the Body, Fragmenting the Nation: Palestinian Amputees in Gaza**](https://www.hhrjournal.org/2022/12/amputating-the-body-fragmenting-the-nation-palestinian-amputees-in-gaza/) _(2022)_ published in _Health Hum Rights_
 - [**Reframing Public Health in Wartime: From the Biomedical Model to the “Wounds Inside”**](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.2.9) _(2020)_ published in _Journal of Palestine Studies_
 - [**The burden of war-injury in the Palestinian health care sector in Gaza Strip**](https://bmcinthealthhumrights.biomedcentral.com/articles/10.1186/s12914-018-0165-3#:~:text=The%20overall%20number%20of%20injuries,(4.7)%20per%201000%20population.) _(2018)_ published in _BMC International Health and Human Rights_
