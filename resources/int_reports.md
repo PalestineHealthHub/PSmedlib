@@ -2,12 +2,12 @@
 
 
 ## UN Reports
-- [**Humanitarian Situation: occupied Palestinian territory (OCHA)**](https://reliefweb.int/country/pse) _(current reports)_
+- [**Humanitarian Situation: occupied Palestinian territory (OCHA)**](https://reliefweb.int/country/pse) _(current)_
 - [**The Goldstone Report: The Legacy of the Landmark Investigation of the Gaza Conflict**](https://books.google.nl/books?id=OsM94e1GHxAC) _(2011)_
 
 ## World Health Organization (WHO)
 - [**Gaza Hostilities 2023/2024 - Emergency Situation Reports**](https://www.emro.who.int/opt/information-resources/emergency-situation-reports.html) _(current reports)_
-- [**WHO in occupied Palestine territory: Information resources**](https://www.emro.who.int/opt/information-resources/index.html) _(current reports)_
+- [**WHO in occupied Palestine territory: Information resources**](https://www.emro.who.int/opt/information-resources/index.html) _(current)_
 
 ## Medical Aid for Palestine (MAP)
 - [**Delayed, denied, deprived: The collective punishment of Palestinian patients in Gaza in the context of Israel's 15-year blockade**](https://www.map.org.uk/downloads/map-al-mezan-access-to-health-online.pdf) _(2022)_
@@ -18,7 +18,7 @@
 - [**No More Impunity: Gaza's Health Sector Under Attack**](https://www.map.org.uk/downloads/no-more-impunity--gazas-health-sector-under-attack.pdf) _(2015)_
 
 ## UNICEF
-- [**UNICEF Data and reports on the situation of children in the State of Palestine**](https://www.unicef.org/sop/research-and-reports) _(current reports)_
+- [**UNICEF Data and reports on the situation of children in the State of Palestine**](https://www.unicef.org/sop/research-and-reports) _(current)_
 - [**Facing life in the Gaza Strip with a new disability**](https://www.unicef.org/sop/stories/facing-life-gaza-strip-new-disability) _(2023)_
 
 ## Save the Children
