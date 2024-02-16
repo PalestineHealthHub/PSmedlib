@@ -6,7 +6,7 @@
 - [**The Goldstone Report: The Legacy of the Landmark Investigation of the Gaza Conflict**](https://books.google.nl/books?id=OsM94e1GHxAC) _(2011)_
 
 ## World Health Organization (WHO)
-- [**Gaza Hostilities 2023/2024 - Emergency Situation Reports**](https://www.emro.who.int/opt/information-resources/emergency-situation-reports.html) _(current reports)_
+- [**Gaza Hostilities 2023/2024 - Emergency Situation Reports**](https://www.emro.who.int/opt/information-resources/emergency-situation-reports.html) _(current)_
 - [**WHO in occupied Palestine territory: Information resources**](https://www.emro.who.int/opt/information-resources/index.html) _(current)_
 
 ## Medical Aid for Palestine (MAP)
