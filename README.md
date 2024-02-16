@@ -16,8 +16,6 @@ This repository aims to provide valuable insights for researchers, practitioners
 - [Academic Papers](/resources/papers.md)
 - [Books & Essays](/resources/books.md)
 
-[comment]: <> (- [News Articles & Opinion Pieces]&#40;/resources/news.md&#41;)
-
 
 ### Documentaries
 - [Documentary List](/resources/documentaries.md)
