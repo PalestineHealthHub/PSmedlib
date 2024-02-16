@@ -11,10 +11,10 @@ This repository aims to provide valuable insights for researchers, practitioners
 
 
 ## Resources
-### Academic Papers, Books & Reports
-- [Research Papers](/resources/papers.md)
-- [Books & Essays](/resources/books.md)
+### Reports, Academic Papers & Books
 - [Data & Reports by Global Health & Humanitarian Organizations](/resources/int_reports.md)
+- [Academic Papers](/resources/papers.md)
+- [Books & Essays](/resources/books.md)
 
 [comment]: <> (- [News Articles & Opinion Pieces]&#40;/resources/news.md&#41;)
 
