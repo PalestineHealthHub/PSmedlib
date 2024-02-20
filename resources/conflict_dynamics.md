@@ -1,4 +1,4 @@
-# Conflict Dynamics
+# Conflict Dynamics and Healthcare
 
 Number of references: 198
 
@@ -116,6 +116,7 @@ Number of references: 198
 - [Non-violence as respect for all suffering: Thoughts inspired by Eyad El Sarraj](no-link) _2016_ published in _Psychoanal. Cult. Soc._
 - [Is the Violence of Tag Mehir a State Crime?](no-link) _2016_ published in _Br. J. Criminol._
 - [Soldiers Perpetrating or Witnessing Acts of Humiliation: A Community-Based Random Sample Study Design](no-link) _2016_ published in _Peace Confl._
+- [(In)justice and the experience of civilian survivors of armed conflict: Case studies from Palestine (Gaza), Iraq and Syria.DP - No Year Specified](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc1&AN=2017-51410-056) _2016_ published in _Dissertation Abstracts International Section C: Worldwide_
 
 ### 2015
 - [Group treatment for survivors of torture and severe violence: A literature review](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27857004) _2015_ published in _Torture_
@@ -248,40 +249,3 @@ Number of references: 198
 
 ### 1978
 - [Terrorism and mutilation in countries of the ancient Middle East, with particular reference to Palestine](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=399793) _1978_ published in _Med Secoli_
-
-### No Year
-- [(In)justice and the experience of civilian survivors of armed conflict: Case studies from Palestine (Gaza), Iraq and Syria.DP - No Year Specified](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc1&AN=2017-51410-056) _No Year_ published in _Dissertation Abstracts International Section C: Worldwide_
-
-## Reports
-[2023](#2023) | [2018](#2018) | [2017](#2017) | [2014](#2014) | [2011](#2011) | [2009](#2009)
-
-### 2023
-- [Mass Evacuations in Israel’s War Against Hamas: Taking Precautions in Attack or Forced Displacement?](https://blog.prif.org/2023/10/26/mass-evacuations-in-israels-war-against-hamas-taking-precautions-in-attack-or-forced-displacement/) _2023_ published in _No Journal_
-- [Israel ‘at war’ after Hamas-led terror assault kills more than 700](https://www.fdd.org/analysis/2023/10/08/israel-at-war-after-hamas-led-terror-assault-kills-more-than-700/) _2023_ published in _No Journal_
-- [The Palestinian Authority’s Collapse Will Not Stop Terrorism](https://www.inss.org.il/publication/saturday-terror/) _2023_ published in _No Journal_
-
-### 2018
-- [The Arab Gulf States and Iran: Military Spending, Modernization, and the Shifting Military Balance](https://www.csis.org/analysis/arab-gulf-states-and-iran-military-spending-modernization-and-shifting-military-balance) _2018_ published in _No Journal_
-
-### 2017
-- [Islam and the Patterns in Terrorism and Violent Extremism](https://www.csis.org/analysis/islam-and-patterns-terrorism-and-violent-extremism) _2017_ published in _No Journal_
-- [Trends in European Terrorism: 1970-2016](https://www.csis.org/analysis/trends-european-terrorism-1970-2016) _2017_ published in _No Journal_
-
-### 2014
-- [The New Wave of Violence between Israelis and Palestinians: The View from Israel](https://www.mei.edu/publications/new-wave-violence-between-israelis-and-palestinians-view-israel) _2014_ published in _No Journal_
-
-### 2011
-- [US State Department and Counter-Terrorism Center Reporting Terrorism in the Middle East and Central Asia, August 2010](https://www.csis.org/analysis/us-state-department-and-counter-terrorism-center-reporting-terrorism-middle-east-and) _2011_ published in _No Journal_
-- [Patterns in Terrorism in North Africa, the Middle East, Central Asia and South Asia: 2007-2010](https://www.csis.org/analysis/patterns-terrorism-north-africa-middle-east-central-asia-and-south-asia-2007-2010) _2011_ published in _No Journal_
-
-### 2009
-- [The War in Gaza](https://www.csis.org/analysis/war-gaza) _2009_ published in _No Journal_
-- [The War in Gaza](https://www.csis.org/analysis/war-gaza) _2009_ published in _No Journal_
-- [Gaza: One Year After the War](https://www.doctorswithoutborders.org/latest/gaza-one-year-after-war) _2009_ published in _No Journal_
-
-## [GEN]
-[2004](#2004)
-
-### 2004
-- [Perception of violence against women by El Minia University female students](https://pesquisa.bvsalud.org/gim/resource/en/emr-65892) _2004_ published in _No Journal_
-

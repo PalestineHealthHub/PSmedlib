@@ -253,10 +253,3 @@ Number of references: 182
 
 ### 1985
 - [The psychological impact of terrorism: A double-edged sword.DP - Dec 1985](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc2&AN=1986-29874-001) _1985_ published in _Political Psychology_
-
-## Reports
-[2010](#2010)
-
-### 2010
-- [Hidden Afflictions: Mental Illness in the Middle East](https://www.csis.org/analysis/hidden-afflictions-mental-illness-middle-east-0) _2010_ published in _No Journal_
-

@@ -142,19 +142,3 @@ Number of references: 93
 
 ### 1989
 - [Effects of the uprising on the psychosocial development of Palestinian children in the occupied territories.DP - Nov 1989](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc3&AN=2001-16328-001) _1989_ published in _Arab Journal of Psychiatry_
-
-## Reports
-[2016](#2016) | [2015](#2015)
-
-### 2016
-- [The Evening CSIS: Iran’s Long Shot, Global Economic Derailment, Who are You & More](https://www.csis.org/analysis/evening-csis-iran%E2%80%99s-long-shot-global-economic-derailment-who-are-you-more) _2016_ published in _No Journal_
-
-### 2015
-- [The hidden costs of the 2014 GazaâIsraeli conflict: adolescent girlsâ psychosocial wellbeing](https://www.odi.org/publications/9692-hidden-costs-2014-gaza-israeli-conflict-adolescent-girls-psychosocial-wellbeing) _2015_ published in _No Journal_
-
-## [GEN]
-[2010](#2010)
-
-### 2010
-- [<The> psychosocial impact of political violence on Palestinian and Jewish adolescents](https://pesquisa.bvsalud.org/gim/resource/en/emr-131073) _2010_ published in _No Journal_
-
