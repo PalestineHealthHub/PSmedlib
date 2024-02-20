@@ -11,6 +11,26 @@ This repository aims to provide valuable insights for researchers, practitioners
 
 
 ## Resources
+This project's data is largely derived from a comprehensive search across a variety of academic and research databases. Below is a detailed overview of the sources and the search strategy employed.
+
+### Databases Utilized:
+The references have been extracted from the following databases:
+- **Web of Science**
+- **Medline**
+- **Embase**
+- **Cochrane Central Register of Controlled Trials**
+- **PsycINFO**
+- **IMEMR (Index Medicus for the Eastern Mediterranean Region)**
+- **Overton**
+- **Google Scholar (100 top-ranked)**
+
+### Search Strategy:
+The data extraction was guided by a structured search query database designed to capture a wide array of research related to injuries, trauma, and medical resource scarcity in conflict zones, specifically focused on Palestine.
+
+#### Detailed Search Query (Web of Science):
+```plaintext
+TS=(((palestin* OR gaza OR west-bank*)) AND ((injur* OR trauma OR amput* OR wound* OR posttraum* OR surger* OR surgic* OR prosthe* OR ((resourc* OR food OR personnel* OR supply OR supplies OR medication* OR drug) NEAR/2 (scarc* OR shortag*)) OR PTSD OR ((medical*) NEAR/2 (underserv*)))) AND ((war OR wars OR conflict OR conflicts OR violence OR combat* OR battle* OR terror* OR atrocit*))) NOT (DT=(Meeting Abstract OR Meeting Summary) AND py=(1800-2020)) AND LA=(English)
+```
 ### Journal Articles
 - [Injuries and Treatments](/resources/injuries_and_treatments.md)
 - [Psychological Effects](/resources/psychological_effects.md)
