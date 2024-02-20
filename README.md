@@ -12,7 +12,7 @@ This repository aims to provide valuable insights for researchers, practitioners
 
 ## Resources
 
-The majority of the presented references were found using a structured [search query](#detailed-search-query). The search was executed on February 5th, 2024.
+The majority of the presented references were found using a structured [search query](#databases-and-search-query). The search was executed on February 5th, 2024.
 
 ### Journal Articles
 - [Injuries and Treatments](/resources/injuries_and_treatments.md)
