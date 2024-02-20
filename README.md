@@ -11,15 +11,15 @@ This repository aims to provide valuable insights for researchers, practitioners
 
 
 ## Resources
-### Reports, Academic Papers & Books
+### Academic papers
+- [Injuries and treatments](/resources/injuries_and_treatments.md)
+- [Psychological effects](/resources/psychological_effects.md)
+- [Psychological effects](/resources/psychological_effects.md)
+- [Conflict dynamics](/resources/conflict_dynamics.md)
+
+### Reports and books
 - [Data & Reports by Global Health & Humanitarian Organizations](/resources/int_reports.md)
-- [Academic Papers](/resources/papers.md)
 - [Books & Essays](/resources/books.md)
-
-
-### Documentaries
-- [Documentary List](/resources/documentaries.md)
-
 
 ## How to Contribute
 We warmly welcome contributions from the community! If you possess relevant resources that are currently not featured, or if you want to contribute in other ways, please do not hesitate to contact us. Reach out via email at PalestineHealthHub@gmail.com or submit a merge request directly. Your involvement can make a significant difference!
