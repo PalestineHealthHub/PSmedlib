@@ -14,8 +14,8 @@ This repository aims to provide valuable insights for researchers, practitioners
 ### Academic papers
 - [Injuries and treatments](/resources/injuries_and_treatments.md)
 - [Psychological effects](/resources/psychological_effects.md)
-- [Psychological effects](/resources/psychological_effects.md)
 - [Conflict dynamics](/resources/conflict_dynamics.md)
+- [socio-political analysis](/resources/socio-political_analysis.md)
 
 ### Reports and books
 - [Data & Reports by Global Health & Humanitarian Organizations](/resources/int_reports.md)
