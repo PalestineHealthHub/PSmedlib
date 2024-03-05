@@ -1,5 +1,7 @@
 # Data & Reports by Global Health & Humanitarian Organizations
 
+## Health Impact Projections (Gaza)
+- [**Crisis in Gaza: Scenario-Based Health Impact Projections**](https://gaza-projections.org/) _(current)_
 
 ## UN Reports
 - [**Humanitarian Situation: occupied Palestinian territory (OCHA)**](https://reliefweb.int/country/pse) _(current)_
