@@ -3,11 +3,11 @@
 ## Journal Articles
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2006](#2006) | [2005](#2005) | [2004](#2004) | [2003](#2003) | [2002](#2002) | [2000](#2000) | [1998](#1998) | [1993](#1993) | [1992](#1992) | [1991](#1991) | [1990](#1990) | [1978](#1978) 
 ### 2024
+- [On the duty to protect the people of Gaza: how the collapse of the hospital health care system has reinforced genocidal intent](https://jphe.amegroups.org/article/view/9883) _2024_ published in _Asian J. Public Health Emerg._
 - [Radiology in conflict: scoping review](http://dx.doi.org/10.1186/s13031-023-00550-9) _2024_ published in _Confl Health_
 - [Wars in Gaza and Beyond: Why Protecting the Sacredness of Health Matters](https://www.embase.com/search/results?subaction=viewrecord&id=L2029053351&from=export) _2024_ published in _JAMA_
 - [The health dimensions of violence in Palestine: a call to prevent genocide](https://www.embase.com/search/results?subaction=viewrecord&id=L2029280516&from=export) _2024_ published in _Lancet_
 - [Jaspersian Principles for Achieving Lasting Peace in the Palestine-Israel Conflict](https://www.embase.com/search/results?subaction=viewrecord&id=L2028952146&from=export) _2024_ published in _Asian J Psychiatry_
-
 ### 2023
 - [Addressing the Effects of War on Gaza's Healthcare System](http://dx.doi.org/10.7759/cureus.50036) _2023_ published in _Cureus_
 - [Investigating the impact of COVID-19 on patients with cancer from areas of conflict within the MENA region treated at King Hussein Cancer Center](http://dx.doi.org/10.3389/fonc.2023.1088000) _2023_ published in _Front. oncol._
