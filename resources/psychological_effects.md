@@ -9,6 +9,7 @@
 - [Urgent attention needed for the mental health of people in Gaza: A call for global action](https://www.embase.com/search/results?subaction=viewrecord&id=L2029451109&from=export) _2024_ published in _Asian J Psychiatry_
 - [Collaboration Between Mental Health Professionals and Physicians in the Assessment of Torture Victims in a Conflict-Ridden Area: Complexities and Recommendations](no-link) _2024_ published in _Prof. Psychol.-Res. Pract._
 - [Does armed conflict exposure predict psychotic experiences in the general population? An experience sampling study](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc22&AN=2024-33171-001) _2024_ published in _International Journal of Stress Management_
+- [Invisible wounds of the Israel-Gaza war in Australia](http://dx.doi.org/10.5694/mja2.52168) _2024_ published in _Med J Aust_
 
 ### 2023
 - [Growing Up on the Edge: A Community-Based Mental Health Intervention for Children in Gaza](http://dx.doi.org/10.1007/s10802-023-01124-2) _2023_ published in _No Journal_
@@ -17,6 +18,12 @@
 - [Psychosocial concerns in a context of prolonged political oppression: Gaza mental health providers' perceptions](no-link) _2023_ published in _Transcult. Psychiatry_
 - [The effect of exposure to armed conflict on depression as mediated by physical punishment: a study among Nigerian adolescents](no-link) _2023_ published in _J. Aggress. Confl. Peace Res._
 - [Negative and protective experiences influencing the well-being of refugee children resettling in Germany: a qualitative study](no-link) _2023_ published in _BMJ Open_
+- [Development of a context-specific trauma scale among a Palestinian adult population living amidst military violence](http://dx.doi.org/10.1017/gmh.2023.82) _2023_ published in _Glob Ment Health (Camb)_
+- [Political violence and posttraumatic stress symptoms among Palestinians: The mediating roles of sense of belongingness and loneliness](http://dx.doi.org/10.1002/ijop.12918) _2023_ published in _Int J Psychol_
+- [The network structure of posttraumatic stress symptoms in war-affected children and adolescents](http://dx.doi.org/10.1002/jcv2.12124) _2023_ published in _JCPP adv._
+- [Hope and life satisfaction in Palestinian children victim of military violence: The predictive role of agency, potentially traumatic experiences and symptoms of trauma](http://dx.doi.org/10.1016/j.chiabu.2023.106520) _2023_ published in _Child Abuse Negl_
+- [Transgenerational trauma and collective resilience: a qualitative analysis of the experiences of settler-colonial violence among three generations of Palestinian …](https://journals.sagepub.com/doi/abs/10.1177/00207640231175787) _2023_ published in _International journal of …_
+
 
 ### 2022
 - [Human (in)security and psychological well-being in Palestinian children living amidst military violence: A qualitative participatory research using interactive maps](http://dx.doi.org/10.1111/cch.12917) _2022_ published in _Child Care Health Dev_
@@ -82,6 +89,9 @@
 - [Conflict and well-being: a comparative study of health-related quality of life, stress, and insecurity of university students in the West Bank and Jordan](no-link) _2018_ published in _Qual. Life Res._
 - [Review: How should child mental health services respond to the refugee crisis?](no-link) _2018_ published in _Child Adolesc. Ment. Health_
 - [Life on the Western Front of Israel Stressful Living Conditions and Adolescent Cannabis Use](no-link) _2018_ published in _Int. J. Mental Health Addict._
+- [Post-traumatic Stress Disorder Among Health Care Providers Two Years Following the Israeli Attacks Against Gaza Strip in August 2014: Another Call for Policy Intervention](http://dx.doi.org/10.1016/j.apnu.2017.10.014) _2018_ published in _Arch Psychiatr Nurs_
+- [The Effectiveness of Therapeutic and Psychological Intervention Programs in PTC-GAZA](http://dx.doi.org/10.1007/s40653-018-0213-0) _2018_ published in _J. child adolesc. trauma_
+
 
 ### 2017
 - [Distress Levels among Parents of Active Duty Soldiers during Wartime](http://dx.doi.org/10.3389/fpsyg.2017.01679) _2017_ published in _Front Psychol_

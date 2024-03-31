@@ -3,25 +3,10 @@
 ## Journal Articles
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2006](#2006) | [2005](#2005) | [2004](#2004) | [2003](#2003) | [2002](#2002) | [2001](#2001) | [2000](#2000) | [1999](#1999) | [1998](#1998) | [1997](#1997) | [1996](#1996) | [1995](#1995) | [1993](#1993) | [1992](#1992) | [1988](#1988) | [1950](#1950)
 
-### 2024
-- [Invisible wounds of the Israel-Gaza war in Australia](http://dx.doi.org/10.5694/mja2.52168) _2024_ published in _Med J Aust_
-- [Cumulative trauma: The intersection between continuous security threats and the COVID-19 pandemic among Israeli older adults](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc22&AN=2024-44188-001) _2024_ published in _Psychological Trauma: Theory, Research, Practice, and Policy_
 
 ### 2023
-- [Sirens of stress: Financial risk, time preferences, and post-traumatic stress disorder: Evidence from the Israel-Hamas Conflict](http://dx.doi.org/10.1177/13591053231207693) _2023_ published in _J HEALTH PSYCHOL_
-- [Trauma history predicts depression and posttraumatic stress symptoms better than a psychiatric diagnosis: Comparing wartime, routine time, and early COVID-19 in Israel](http://dx.doi.org/10.1002/smi.3254) _2023_ published in _No Journal_
-- [Consequences of Exposure to War Violence: Discriminating Those with Heightened Risk for Aggression from Those with Heightened Risk for Post-Traumatic Stress Symptoms](http://dx.doi.org/10.3390/ijerph20126067) _2023_ published in _No Journal_
-- [Association between war-related traumatic events and blood pressure trajectory: a population-based study among the mid-aged and older Palestinian adults living in Gaza](http://dx.doi.org/10.3389/fpubh.2023.1073284) _2023_ published in _Front. public health_
-- [Post-traumatic stress in war veterans and secondary traumatic stress among parents of war veterans five years after the 2014 Israel-Gaza military conflict](http://dx.doi.org/10.1080/20008066.2023.2235983) _2023_ published in _Eur J Psychotraumatol_
-- [Development of a context-specific trauma scale among a Palestinian adult population living amidst military violence](http://dx.doi.org/10.1017/gmh.2023.82) _2023_ published in _Glob Ment Health (Camb)_
-- [Political violence and posttraumatic stress symptoms among Palestinians: The mediating roles of sense of belongingness and loneliness](http://dx.doi.org/10.1002/ijop.12918) _2023_ published in _Int J Psychol_
-- [Physical Trauma Following Rocket Warning Sirens in Israel](http://dx.doi.org/10.1093/milmed/usac343) _2023_ published in _Mil Med_
-- [The Long-Term Effects of Living in a Shared and Continuous Traumatic Reality: The Case of Israeli Families on the Border With Gaza](http://dx.doi.org/10.1177/15248380211063467) _2023_ published in _TRAUMA VIOLENCE ABUSE REV J_
-- [The network structure of posttraumatic stress symptoms in war-affected children and adolescents](http://dx.doi.org/10.1002/jcv2.12124) _2023_ published in _JCPP adv._
-- [Exposure to Terror Attacks and Traumatization Among Immigrants From the Former Soviet Union to Israel: The Positive Effects of Bicultural Identity and Bicultural Social Support](http://dx.doi.org/10.1177/08862605221102481) _2023_ published in _J Interpers Violence_
-- [Hope and life satisfaction in Palestinian children victim of military violence: The predictive role of agency, potentially traumatic experiences and symptoms of trauma](http://dx.doi.org/10.1016/j.chiabu.2023.106520) _2023_ published in _Child Abuse Negl_
+- [Consequences of Exposure to War Violence: Discriminating Those with Heightened Risk for Aggression from Those with Heightened Risk for Post-Traumatic Stress Symptoms](http://dx.doi.org/10.3390/ijerph20126067) _2023_ published in _Int. J. Environ. Res. Public Health_
 - [Transgenerational trauma and collective resilience: A qualitative analysis of the experiences of settler-colonial violence among three generations of Palestinian refugees](http://dx.doi.org/10.1177/00207640231175787) _2023_ published in _Int J Soc Psychiatry_
-- [How Does Parenthood Moderate Paths Between Personal and Community Resources and Distress following Collective Trauma?](http://dx.doi.org/10.1007/s10826-022-02492-x) _2023_ published in _J. child fam. stud._
 - [Israel−Palestine Conflict: Risk of Sleep Disorders and Post-Traumatic Stress Disorders](https://www.embase.com/search/results?subaction=viewrecord&id=L2026989012&from=export) _2023_ published in _Sleep Vigil_
 - [The Association Between Mental Well-Being and School Attendance Among Palestinian Adolescent Refugees in UNRWA Schools](https://www.embase.com/search/results?subaction=viewrecord&id=L2017427322&from=export) _2023_ published in _J Child Adolesc Trauma_
 - [Call for Emergency Aid for Gaza Strip Hospitals and Clinics](https://www.embase.com/search/results?subaction=viewrecord&id=L2029301081&from=export) _2023_ published in _Trauma Mon_
@@ -33,10 +18,8 @@
 - [Drone trauma: violent mediation and remote warfare](no-link) _2023_ published in _Media Cult. Soc._
 - [Perpetrators' trauma and implicated witnessing: Between the psychoanalytic and the political](no-link) _2023_ published in _Psychoanal. Cult. Soc._
 - [The association between posttraumatic stress symptoms and suicidal ideations among Palestinians: The mediating role of spirituality, social support and mindfulness](no-link) _2023_ published in _Camb. Prism. Glob. Ment. Health_
-- [Analysis of ongoing trauma experiences of Israeli adults exposed to missile attacks.DP - 2023](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc22&AN=2023-46642-284) _2023_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 - [Eye movement desensitization reprocessing as a treatment for PTSD in conflict-affected areas](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc22&AN=2023-38718-001) _2023_ published in _Psychological Trauma: Theory, Research, Practice, and Policy_
 - [Surgical Capacity Assessment and Leverage in the PalEstinian Land (SCALPEL-I) Study: The First Nationwide Plastic Surgery Capacity Evaluation in Palestine](https://journals.lww.com/prsgo/fulltext/2023/10001/surgical_capacity_assessment_and_leverage_in_the.145.aspx) _2023_ published in _… Surgery–Global …_
-- [Transgenerational trauma and collective resilience: a qualitative analysis of the experiences of settler-colonial violence among three generations of Palestinian …](https://journals.sagepub.com/doi/abs/10.1177/00207640231175787) _2023_ published in _International journal of …_
 
 ### 2022
 - [Post-traumatic stress disorder among victims of great march of return in the Gaza Strip, Palestine: A need for policy intervention](http://dx.doi.org/10.1016/j.apnu.2021.10.009) _2022_ published in _Arch Psychiatr Nurs_
@@ -53,7 +36,6 @@
 - ["No safe place": Applying the transactional stress and coping model to active warfare](http://dx.doi.org/10.1037/tra0001023) _2022_ published in _Psychol Trauma_
 - [Palestinian children living amidst political and military violence deploy active protection strategies against psychological trauma: How agency can mitigate traumatic stress via life satisfaction](http://dx.doi.org/10.1177/13674935211017727) _2022_ published in _J Child Health Care_
 - [Measuring Traumatic Reactions in Palestinian Children: A Psychometric Assessment of the Children Revised Impact of Event Scale-Arabic Version (CRIES-13A)](http://dx.doi.org/10.1007/s10578-020-01113-2) _2022_ published in _Child Psychiatry Hum Dev_
-- [Exposure to combat incidents within military and civilian populations as possible correlates of potentially morally injurious events and moral injury outcomes among Israeli combat veterans](http://dx.doi.org/10.1002/cpp.2632) _2022_ published in _Clin. psychol. psychother._
 - [Antibiotic resistance among bacteria isolated from war-wounded patients at the Weapon Traumatology Training Center of the International Committee of the Red Cross from 2016 to 2019: a secondary analysis of WHONET surveillance data](https://www.embase.com/search/results?subaction=viewrecord&id=L2015311071&from=export) _2022_ published in _BMC Infect Dis_
 - [Burnout syndrome, symptoms of trauma, and psychological distress in Palestinian healthcare professionals: the protective role of spiritual wellbeing](no-link) _2022_ published in _Ment. Health Relig. Cult._
 - [Psychological Distress, Professional Burnout, and Trauma in Palestinian Health Care Helpers: A Two-Wave Quantitative Longitudinal Study](no-link) _2022_ published in _Psychol. Trauma_
@@ -71,7 +53,6 @@
 - [Prevalence of post-traumatic stress disorder among Palestinian children and adolescents exposed to political violence: A systematic review and meta-analysis](http://dx.doi.org/10.1371/journal.pone.0256426) _2021_ published in _PLoS ONE_
 - [Emergency response of the UNRWA health programme to Great March of Return injuries: a descriptive analytic study in Gaza](http://dx.doi.org/10.1016/s0140-6736(21)01490-2) _2021_ published in _Lancet_
 - [Posttraumatic stress disorder predicts poor health-related quality of life in cardiac patients in Palestine](http://dx.doi.org/10.1371/journal.pone.0255077) _2021_ published in _PLoS ONE_
-- [Mastery, Social Support, and Sense of Community as Protective Resources Against Psychological Distress Among Israelis Exposed to Prolonged Rocket Attacks](http://dx.doi.org/10.1002/jts.22629) _2021_ published in _J Trauma Stress_
 - [Development and validation of the Continuous Traumatic Stress Response scale (CTSR) among adults exposed to ongoing security threats](http://dx.doi.org/10.1371/journal.pone.0251724) _2021_ published in _PLoS ONE_
 - [Palestinian Adolescents' Prolonged Exposure to Political Violence, Self- Esteem, and Post-Traumatic Stress Symptoms](http://dx.doi.org/10.1177/0886260518789144) _2021_ published in _J Interpers Violence_
 - [Prolonged exposure to violence: Psychiatric symptoms and suicide risk among college students in the Palestinian territory](http://dx.doi.org/10.1037/tra0001043) _2021_ published in _Psychol Trauma_
@@ -87,7 +68,6 @@
 - [Progress in neurosurgery: Contributions of women neurosurgeons in the Middle East](https://www.embase.com/search/results?subaction=viewrecord&id=L2011176626&from=export) _2021_ published in _J Clin Neurosci_
 - [Desalination and hydrodiplomacy: Refreshening transboundary water negotiations or adding salt to the wounds?](https://www.embase.com/search/results?subaction=viewrecord&id=L2010277918&from=export) _2021_ published in _Environ Sci Policy_
 - [Unspectacular spaces of slow wounding in Palestine](no-link) _2021_ published in _Trans. Inst. Br. Geogr._
-- [A National Reckoning: Israeli Soldiers' Depictions of Wartime Trauma in Autobiographical Graphic Novels](no-link) _2021_ published in _J. War Cult. Stud._
 - [Constraints to liberty of movement and attachment styles significantly account for well-being in three Palestinian samples](no-link) _2021_ published in _Eur. J. Psychotraumatol._
 - [Multigenerational reactions to situations of ongoing stress: Children's and parents' perspectives on facing a prolonged period of missile attacks](no-link) _2021_ published in _J. Fam. Trauma Child Custody Child Dev._
 - [A Generation 1.5 Palestinian Diaspora Child Refugee in Chile](no-link) _2021_ published in _J. Loss Trauma_
@@ -95,7 +75,6 @@
 - [Displaced A 360-Degree Virtual Reality Narrative about Immigration-Related Trauma](no-link) _2021_ published in _No Journal_
 - [Psychic trauma and competing nationalisms in the Israeli-Palestinian conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2021-46733-002) _2021_ published in _Goldfield, Norbert [Ed]_
 - [The intersection of trauma and disaster behavioral health.DP - 2021](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2021-36859-000) _2021_ published in _No Journal_
-- [Therapeutic interventions with Israeli children exposed to continuous traumatic stress of political violence](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2020-72921-015) _2021_ published in _Greenbaum, Charles W [Ed]_
 - [Prolonged exposure to political violence and the development of post-traumatic stress symptoms in Palestinian adolescents: Moderating effects of parenting styles, age, and gender](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2020-72921-006) _2021_ published in _Greenbaum, Charles W [Ed]_
 
 ### 2020
@@ -112,7 +91,6 @@
 - [Perceptions of Non-Communicable Disease and War Injury Management in the Palestinian Health System: A Qualitative Study of Healthcare Providers Perspectives](http://dx.doi.org/10.2147/jmdh.S253080) _2020_ published in _J Multidiscip Healthc_
 - [Inclusivity of past collective trauma and its implications for current intractable conflict: The mediating role of moral lessons](http://dx.doi.org/10.1111/bjso.12336) _2020_ published in _Br J Soc Psychol_
 - [Victims of war-Psychoendocrine evidence for the impact of traumatic stress on psychological well-being of adolescents growing up during the Israeli-Palestinian conflict](http://dx.doi.org/10.1111/psyp.13271) _2020_ published in _Psychophysiology_
-- [The Israel Defense Forces Trauma Registry: 22 years of point-of-injury data](http://dx.doi.org/10.1097/ta.0000000000002776) _2020_ published in _J Trauma Acute Care Surg_
 - [Sources of functioning, symptoms of trauma, and psychological distress: A cross-sectional study with Palestinian health workers operating in West Bank and Gaza strip](http://dx.doi.org/10.1037/ort0000508) _2020_ published in _Am J Orthopsychiatry_
 - [The Exposure to Traumatic Experiences Among the Palestinian Students in the West Bank](no-link) _2020_ published in _Biosci. Biotechnol. Res. Commun._
 - [Collective Trauma, Quality of Life and Resilience in Narratives of Third Generation Palestinian Refugee Children](no-link) _2020_ published in _Child Indic. Res._
@@ -153,15 +131,11 @@
 - [New trauma pathway saves hundreds of lives as Gaza struggles with gunshot wounds](https://search.proquest.com/openview/8e893dcdb5ecd9a1d140fa45e2eb53bd/1?pq-origsite=gscholar&cbl=2043523) _2019_ published in _BMJ: British Medical Journal (Online)_
 
 ### 2018
-- [Post-traumatic Stress Disorder Among Health Care Providers Two Years Following the Israeli Attacks Against Gaza Strip in August 2014: Another Call for Policy Intervention](http://dx.doi.org/10.1016/j.apnu.2017.10.014) _2018_ published in _Arch Psychiatr Nurs_
-- [The Effectiveness of Therapeutic and Psychological Intervention Programs in PTC-GAZA](http://dx.doi.org/10.1007/s40653-018-0213-0) _2018_ published in _J. child adolesc. trauma_
-- [The protective role of maternal posttraumatic growth and cognitive trauma processing among Palestinian mothers and infants](http://dx.doi.org/10.1016/j.infbeh.2017.05.008) _2018_ published in _Infant behav. dev._
 - [The protective role of maternal post-traumatic growth and cognitive trauma processing in Palestinian mothers and infants: a longitudinal study](http://dx.doi.org/10.1016/s0140-6736(18)30405-7) _2018_ published in _Lancet_
 - [Do acute dissociation reactions predict subsequent posttraumatic stress and growth? A prospective experience sampling method study](http://dx.doi.org/10.1016/j.janxdis.2018.05.008) _2018_ published in _J Anxiety Disord_
 - [Severe extremity amputations in surviving Palestinian civilians caused by explosives fired from drones during the Gaza War](http://dx.doi.org/10.1016/s0140-6736(18)30381-7) _2018_ published in _Lancet_
 - [Life after conflict-related amputation trauma: a clinical study from the Gaza Strip](http://dx.doi.org/10.1186/s12914-018-0173-3) _2018_ published in _BMC Int Health Hum Rights_
 - [Trauma proliferation and stress generation (TPSG) dynamics and their implications for clinical science](http://dx.doi.org/10.1037/ort0000304) _2018_ published in _Am J Orthopsychiatry_
-- [Treatment seeking for posttraumatic stress in Israel Defense Forces veterans deployed in the Second Lebanon War (2006) and "Operation Cast Lead" in the Gaza Strip (2009): a comparative study](http://dx.doi.org/10.1080/10615806.2017.1421179) _2018_ published in _Anxiety stress coping_
 - [The burden of war-injury in the Palestinian health care sector in Gaza Strip](http://dx.doi.org/10.1186/s12914-018-0165-3) _2018_ published in _BMC Int Health Hum Rights_
 - [Correction to: The burden of war-injury in the Palestinian health care sector in Gaza Strip](http://dx.doi.org/10.1186/s12914-018-0171-5) _2018_ published in _BMC Int Health Hum Rights_
 - [Maternal pre- and postnatal mental health and infant development in war conditions: The Gaza Infant Study](http://dx.doi.org/10.1037/tra0000275) _2018_ published in _Psychol Trauma_
@@ -170,7 +144,6 @@
 - [Quality of life, primary traumatisation, and positive and negative affects in primary school students in the Gaza Strip](http://dx.doi.org/10.1016/s0140-6736(18)30380-5) _2018_ published in _Lancet_
 - [Reframing Public Health in Wartime: From the Biomedical Model to the "Wounds Inside"](no-link) _2018_ published in _J. Palest. Stud._
 - [Trauma as a Collective Disease and Root Cause of Protracted Social Conflict](no-link) _2018_ published in _Peace Confl._
-- [Social, family and trauma risk factors for common disorders in Israeli youth](no-link) _2018_ published in _Child. Youth Serv. Rev._
 - [The number of war-related traumatic events is associated with increased behavioural but not emotional problems among Syrian refugee children years after resettlement](no-link) _2018_ published in _Arch. Clin. Psychiatry_
 - [Trauma, Emotions, and Memory in World Politics: The Case of the European Union's Foreign Policy in the Middle East Conflict](no-link) _2018_ published in _Polit. Psychol._
 - [Life in a continuous traumatic situation: perspective of the older population](no-link) _2018_ published in _Ageing Soc._
@@ -178,7 +151,6 @@
 - [Traumatic Brain Injury Caused by Missile Wounds in the North of Palestine: A Single Institution's Experience with 520 Consecutive Civilian Patients](no-link) _2018_ published in _World Neurosurg._
 - ["Intervention effectiveness among war-affected children: A cluster randomized controlled trial on improving mental health": Erratum.DP - Feb 2018](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc17&AN=2018-10286-007) _2018_ published in _Journal of Traumatic Stress_
 - [Meaningful world trauma outreach and prevention across cultures: Utilizing the 7-step integrative healing model for resilience and meaning-making](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc17&AN=2018-06801-008) _2018_ published in _Rich, Grant J [Ed]_
-- [Psychopathology, risk, and resilience under exposure to continuous traumatic stress: A systematic review of studies among adults living in southern Israel](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc17&AN=2017-43599-001) _2018_ published in _Traumatology_
 
 ### 2017
 - [Resilience in Palestinian adolescents living in Gaza](http://dx.doi.org/10.1037/tra0000153) _2017_ published in _Psychol Trauma_
@@ -211,18 +183,15 @@
 - [Adaptation and Resilience Among Clinicians Under Missile Attack: Shared Traumatic Reality](no-link) _2017_ published in _Int. J. Mental Health Addict._
 - [When criticism is ineffective: The case of historical trauma and unsupportive allies](no-link) _2017_ published in _Eur. J. Soc. Psychol._
 - [Therapeutic Intervention in a Continuous Shared Traumatic Reality: An Example from the Israeli-Palestinian Conflict](no-link) _2017_ published in _Br. J. Soc. Work_
-- [Trauma, Time, and the 'Singular Plural' ... <i>The Israeli Television Series</i> Fauda](no-link) _2017_ published in _Isr. Stud. Rev._
 - [Making sense of collective identity and trauma through drawing: the case study of a Palestinian refugee student](no-link) _2017_ published in _Intercult. Educ._
 - [Dwelling at the thresholds: Witnesses to historical trauma across concentric fields](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2017-14730-003) _2017_ published in _Alpert, Judith L [Ed]_
 - [Psychoanalysis, trauma, and community: History and contemporary reappraisals.ST - Relational perspectives book series](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2017-14730-000) _2017_ published in _No Journal_
 - [Traumatic stress symptoms, forgiveness, and meaning in life in four traumatized regions of the world](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2016-46628-001) _2017_ published in _International Perspectives in Psychology: Research, Practice, Consultation_
-- [Continuous traumatic stress, Attachment style and parenting style for Jewish-Israeli parents in Israel and the United States.DP - 2017](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2017-05719-112) _2017_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 - [War trauma and maternal–fetal attachment predicting maternal mental health, infant development, and dyadic interaction in Palestinian families](https://www.tandfonline.com/doi/abs/10.1080/14616734.2017.1330833) _2017_ published in _Attachment &human …_
 
 ### 2016
 - [Post-Traumatic Stress Disorder Among Health Care Providers Following the Israeli Attacks Against Gaza Strip in 2014: A Call for Immediate Policy Actions](http://dx.doi.org/10.1016/j.apnu.2015.08.010) _2016_ published in _Arch Psychiatr Nurs_
 - [Long-term exposure to political violence: The particular injury of persistent humiliation](http://dx.doi.org/10.1016/j.socscimed.2016.03.011) _2016_ published in _Soc Sci Med_
-- [Risk factors for DSM-5 posttraumatic stress symptoms (PTSS) among Israeli civilians during the 2014 Israel-Hamas war](http://dx.doi.org/10.1037/tra0000063) _2016_ published in _Psychol Trauma_
 - [Psychosocial Group Intervention Among War-Affected Children: An Analysis of Changes in Posttraumatic Cognitions](http://dx.doi.org/10.1002/jts.22149) _2016_ published in _J Trauma Stress_
 - [The application of Integra in a challenging context](http://dx.doi.org/10.1177/2059513116672789) _2016_ published in _Scars Burn Heal_
 - [Negative Social Relationships Predict Posttraumatic Stress Symptoms Among War-Affected Children Via Posttraumatic Cognitions](http://dx.doi.org/10.1007/s10802-015-0070-3) _2016_ published in _J Abnorm Child Psychol_
@@ -246,14 +215,11 @@
 - [Mental health professionals working in a shared traumatic reality](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc15&AN=2016-26144-009) _2016_ published in _Maltzman, Sara [Ed]_
 
 ### 2015
-- [Characteristics of Improvised Explosive Device Trauma Casualties in the Gaza Strip and Other Combat Regions: The Israeli Experience](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26284374) _2015_ published in _WOUNDS_
 - [Exposure to Family Violence, Perceived Psychological Adjustment of Parents, and the Development of Post-Traumatic Stress Symptoms Among Palestinian University Students](http://dx.doi.org/10.1177/0886260514554288) _2015_ published in _J Interpers Violence_
 - [Loss of social resources predicts incident posttraumatic stress disorder during ongoing political violence within the Palestinian Authority](http://dx.doi.org/10.1007/s00127-014-0984-z) _2015_ published in _Soc Psychiatry Psychiatr Epidemiol_
-- [A Longitudinal Investigation of the Relationship between Posttraumatic Stress Symptoms and Posttraumatic Growth in a Cohort of Israeli Jews and Palestinians during Ongoing Violence](http://dx.doi.org/10.1371/journal.pone.0124782) _2015_ published in _PLoS ONE_
 - [Acute posttraumatic stress symptoms but not generalized anxiety symptoms are associated with severity of exposure to war trauma: A study of civilians under fire](http://dx.doi.org/10.1016/j.janxdis.2015.08.001) _2015_ published in _J Anxiety Disord_
 - [Coping with war trauma and psychological distress among school-age Palestinian children](http://dx.doi.org/10.1037/ort0000039) _2015_ published in _Am J Orthopsychiatry_
 - [Political Imprisonment and Adult Functioning: A Life Event History Analysis of Palestinians](http://dx.doi.org/10.1002/jts.22015) _2015_ published in _J Trauma Stress_
-- [Making up 'national trauma, in Israel: From collective identity to collective vulnerability](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26502658) _2015_ published in _Soc Stud Sci_
 - [Trajectories of posttraumatic stress symptoms (PTSS) after major war among Palestinian children: Trauma, family- and child-related predictors](http://dx.doi.org/10.1016/j.jad.2014.09.021) _2015_ published in _J Affect Disord_
 - [Canada must help the wounded children of Gaza](http://dx.doi.org/10.1503/cmaj.115-0009) _2015_ published in _CMAJ_
 - [Exposure to war traumatic experiences, post-traumatic stress disorder and post-traumatic growth among nurses in Gaza](http://dx.doi.org/10.1111/jpm.12264) _2015_ published in _J Psychiatr Ment Health Nurs_
@@ -278,7 +244,6 @@
 - [Gaza Nurses After War: Are They Traumatized?](no-link) _2014_ published in _No Journal_
 - [Trauma under Fire: Treating Post-Traumatic Stress Disorder in Sderot](no-link) _2014_ published in _Psychother. Politics Int._
 - [Protective Factors Based Model for Screening for Posttraumatic Distress in Adolescents](no-link) _2014_ published in _Child Youth Care Forum_
-- [Trauma, guilt, forgiveness: The victimizer as witness in the cinematic and televisual representations of conflict in Israel](no-link) _2014_ published in _Media War Confl._
 - [Family crisis intervention in war contexts: a case study of a traumatised Palestinian family](no-link) _2014_ published in _Brit. J. Guid. Couns._
 - [Professionals' Double Exposure in the Shared Traumatic Reality of Wartime: Contributions to Professional Growth and Stress](no-link) _2014_ published in _Br. J. Soc. Work_
 - [The 1948 <i>mallah</i> of Casablanca: viewing Moroccan (trans) national sentiment through juvenile trauma](no-link) _2014_ published in _J. North Afr. Stud._
@@ -296,7 +261,6 @@
 - [Intergenerational effects of war trauma among Palestinian families mediated via psychological maltreatment](http://dx.doi.org/10.1016/j.chiabu.2013.04.006) _2013_ published in _Child Abuse Negl_
 - [Can Sense of Coherence Moderate Traumatic Reactions? A Cross-Sectional Study of Palestinian Helpers Operating in War Contexts](no-link) _2013_ published in _Br. J. Soc. Work_
 - [Exposure to Political Violence, Psychological Distress, Resource Loss, and Benefit Finding as Predictors of Domestic Violence Among Palestinians](no-link) _2013_ published in _Psychol. Trauma_
-- [Between national ideology and Western therapy: On the emergence of a new "culture of trauma'' following the 2005 forced evacuation of Jewish Israeli settlers](no-link) _2013_ published in _Transcult. Psychiatry_
 - [Individual and Collective Dimensions of Resilience Within Political Violence](no-link) _2013_ published in _Trauma Violence Abus._
 - [Randomized Control Trial of a CBT Trauma Recovery Program in Palestinian Schools](no-link) _2013_ published in _J. Loss Trauma_
 - ['All the Beautiful Things': Trauma, Aesthetics and the Politics of Palestinian Childhood](no-link) _2013_ published in _Space Polity_
@@ -314,57 +278,44 @@
 - [Posttraumatic stress and worry as mediators and moderators between political stressors and emotional and behavioral disorders in Palestinian children](https://www.embase.com/search/results?subaction=viewrecord&id=L364546683&from=export) _2012_ published in _Int J Psychol_
 - [Political Violence, Psychological Distress, and Perceived Health: A Longitudinal Investigation in the Palestinian Authority](no-link) _2012_ published in _Psychol. Trauma_
 - ['Emergency Routine': The Experience of Professionals in a Shared Traumatic Reality of War](no-link) _2012_ published in _Br. J. Soc. Work_
-- [When Home Isn't a Safe Haven: Insecure Attachment Orientations, Perceived Social Support, and PTSD Symptoms Among Israeli Evacuees Under Missile Threat](no-link) _2012_ published in _Psychol. Trauma_
 - [Short-Term Effects of a Writing Intervention Among Adolescents in Gaza](no-link) _2012_ published in _J. Loss Trauma_
-- [Coping and Mental Health Outcomes Among Israelis Living With the Chronic Threat of Terrorism](no-link) _2012_ published in _Psychol. Trauma_
 - [Mind-Body Skills Groups for the Treatment of War-Related Trauma in Children in Gaza](https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01503359/full) _2012_ published in _https://clinicaltrials.gov/show/NCT01595477_
 - [Mind-Body Skills Groups for the Treatment of War-Related Trauma in Adolescents in Gaza](https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01503360/full) _2012_ published in _https://clinicaltrials.gov/show/NCT01595490_
 - [Mind-Body Skills Groups for the Treatment of War-Related Trauma in Adults in Gaza](https://www.cochranelibrary.com/central/doi/10.1002/central/CN-01503358/full) _2012_ published in _https://clinicaltrials.gov/show/NCT01595464_
 - [A Randomized Controlled Study of Mind-Body Skills Groups for the Treatment of War-Related Trauma in Children in Gaza](https://www.cochranelibrary.com/central/doi/10.1002/central/CN-00875922/full) _2012_ published in _Clinicaltrials.gov [www.clinicaltrials.gov]_
 - [A Randomized Controlled Study of Mind-Body Skills Groups for the Treatment of War-Related Trauma in Adolescents in Gaza](https://www.cochranelibrary.com/central/doi/10.1002/central/CN-00875924/full) _2012_ published in _Clinicaltrials.gov [www.clinicaltrials.gov]_
 - [Effectiveness of school-based intervention in enhancing mental health and social functioning among war-affected children](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2012-31556-004) _2012_ published in _Traumatology_
-- [Reactions of civilians exposed to terrorism and war trauma in Israel: The role of intra- and interpersonal factors](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2012-29716-001) _2012_ published in _Columbus, Alexandra M [Ed]_
 - [Use of traditional and nontraditional instruments with traumatized children in Bethlehem, West Bank](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2013-13921-014) _2012_ published in _Music Therapy Perspectives_
 - [Clinical and historical perspectives on the intergenerational transmission of trauma](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2011-28422-004) _2012_ published in _Fromm, M Gerard [Ed]_
 
 ### 2011
 - [Heal thyself: Dealing with trauma work--Gaza 2008/2009](http://dx.doi.org/10.1177/1363459309360799) _2011_ published in _HEALTH (LOND)_
 - [Posttraumatic stress disorder in infants and young children exposed to war-related trauma](http://dx.doi.org/10.1016/j.jaac.2011.03.001) _2011_ published in _J Am Acad Child Adolesc Psychiatry_
-- [From PTSD to "national trauma": the case of the Israel Trauma Center for Victims of Terror and War](http://dx.doi.org/10.1177/1363461511410239) _2011_ published in _TRANSCULT PSYCHIATRY_
 - [Are community studies of psychological trauma's impact accurate? A study among Jews and Palestinians](http://dx.doi.org/10.1037/a0022817) _2011_ published in _Psychol Assess_
 - [Post-traumatic stress disorder and attention-deficit hyperactivity disorder in Palestinian children affected by the war on Gaza](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=31508097) _2011_ published in _Int. psychiatry_
 - [Causes of traumatic brain injury in patients admitted to Rafidia, Al-Ittihad and the specialized Arab hospitals, Palestine, 2006?2007](http://dx.doi.org/10.3109/02699052.2010.546823) _2011_ published in _Brain Inj_
 - [Posttraumatic stress disorders comorbid with major depression in west bank, palestine: A general population cross sectional study](https://www.embase.com/search/results?subaction=viewrecord&id=L361965826&from=export) _2011_ published in _Eur J Psychiatry_
 - [Mind-Body Skills Groups for Posttraumatic Stress Disorder and Depression Symptoms in Palestinian Children and Adolescents in Gaza](no-link) _2011_ published in _Int. J. Stress Manage._
 - [Cumulative Tertiary Appraisals of Traumatic Events Across Cultures: Two Studies](no-link) _2011_ published in _J. Loss Trauma_
-- [Anxiety Symptoms and Need for Help Among Israeli Methadone Patients in a War Zone](no-link) _2011_ published in _J. Loss Trauma_
 - [Post-Traumatic Stress and Growth following Forced Relocation](no-link) _2011_ published in _Br. J. Soc. Work_
 - [Intergenerational transmission, attitudes, and post-traumatic stress disorder in times of war: A comparison between elderly people and their adult offspring after the Second Lebanon War (2006) and Casting Lead Operation (2008)](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc10&AN=2011-29577-003) _2011_ published in _Illness, Crisis, & Loss_
 - [Transgenerational trauma and forgiveness: Looking at the Israeli-Palestinian families forum through a group analytic lens](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc10&AN=2011-06701-007) _2011_ published in _Group Analysis_
 
 ### 2010
-- [From posttrauma intervention to immunization of the social body: pragmatics and politics of a resilience program in Israel's periphery](http://dx.doi.org/10.1007/s11013-010-9187-6) _2010_ published in _Cult Med Psychiatry_
-- [A longitudinal study of posttraumatic stress disorder, depression, and generalized anxiety disorder in Israeli civilians exposed to war trauma](http://dx.doi.org/10.1002/jts.20522) _2010_ published in _J Trauma Stress_
-- [Is ideology a risk factor for PTSD symptom severity among Israeli political evacuees?](http://dx.doi.org/10.1002/jts.20540) _2010_ published in _J Trauma Stress_
 - [Nature of torture, PTSD, and somatic symptoms among political ex-prisoners](http://dx.doi.org/10.1002/jts.20541) _2010_ published in _J Trauma Stress_
-- [QuikClot Combat Gauze use for hemorrhage control in military trauma: January 2009 Israel Defense Force experience in the Gaza Strip--a preliminary report of 14 cases](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21181695) _2010_ published in _Prehospital Disaster Med_
 - [Metals detected by ICP/MS in wound tissue of war injuries without fragments in Gaza](http://dx.doi.org/10.1186/1472-698x-10-17) _2010_ published in _BMC Int Health Hum Rights_
 - [Rehabilitation of torture survivors in five countries: Common themes and challenges](https://www.embase.com/search/results?subaction=viewrecord&id=L50964400&from=export) _2010_ published in _Int J Ment Health Syst_
 - [Military trauma and social development: The moderating and mediating roles of peer and sibling relations in mental health](https://www.embase.com/search/results?subaction=viewrecord&id=L360162541&from=export) _2010_ published in _Int J Behav Dev_
 - [The effects of insecure attachment orientations and perceived social support on posttraumatic stress and depressive symptoms among civilians exposed to the 2009 Israel-Gaza war: A follow-up Cross-Lagged panel design study](no-link) _2010_ published in _J. Res. Pers._
 - [Retired heart transplant pioneer exports primary trauma care to Gaza and other conflict zones](no-link) _2010_ published in _Eur. Heart J._
-- [Interracial (Homo) Sexualities: Post-Traumatic Palestinian and Israeli Cinema During the al-Aqsa Intifada (<i>Diary of a Male Whore</i> and <i>The Bubble</i>)](no-link) _2010_ published in _Int. J. Commun._
 - [Graphic Wounds: The Comics Journalism of Joe Sacco](no-link) _2010_ published in _Journeys_
 - [Elaboration on posttraumatic growth in youth exposed to terror: the role of religiosity and political ideology](no-link) _2010_ published in _Soc. Psychiatry Psychiatr. Epidemiol._
 - [Posttraumatic growth in Middle Eastern context: Expression and determinants among Palestinians](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-05342-003) _2010_ published in _Weiss, Tzipi [Ed]_
-- [Healing the wounds of history: Germans and Jews facing the legacy of the Holocaust](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-08345-006) _2010_ published in _Leveton, Eva [Ed]_
 - [Endurance is to be shown at the first blow: Social representations and reactions to traumatic experiences in the Gaza Strip](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-13580-006) _2010_ published in _Traumatology_
 - [The relationship of level of traumatic exposure, perceived stress, and resilience with salivary cortisol and salivary alpha-amylase diurnal rhythm in Palestinian children 10-12 years exposed to chronic war violence.DP - 2010](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-99140-208) _2010_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 - [Review of The empire of trauma: An inquiry into the condition of victimhood.DP - Jun 2010](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-13278-028) _2010_ published in _The American Journal of Psychiatry_
-- [QuikClot Combat Gauze use for hemorrhage control in military trauma: January 2009 Israel Defense Force experience in the Gaza Strip—a preliminary report of 14 …](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/resilience-of-israeli-rescue-workerszaka-body-handlers/401C71048E88AD8CD60D07D50CB29DB7) _2010_ published in _… and disaster medicine_
 
 ### 2009
-- [Analysis of trauma exposure, symptomatology and functioning in Jewish Israeli and Palestinian adolescents](http://dx.doi.org/10.1192/bjp.bp.108.050393) _2009_ published in _Br J Psychiatry_
 - [Trauma-related psychological disorders among Palestinian children and adults in Gaza and West Bank, 2005-2008](http://dx.doi.org/10.1186/1752-4458-3-21) _2009_ published in _Int. j. ment. health syst._
 - [Posttraumatic Symptoms, Functional Impairment, and Coping among Adolescents on Both Sides of the Israeli-Palestinian Conflict: A Cross-Cultural Approach](no-link) _2009_ published in _Appl. Psychol.-Int. Rev.-Psychol. Appl.-Rev. Int._
 - [The Political Economy of Children's Trauma: A Case Study of House Demolition in Palestine](no-link) _2009_ published in _Feminism Psychol._
@@ -376,8 +327,6 @@
 - [Posttraumatic symptoms, functional impairment, and coping among adolescents on both sides of the Israeli–Palestinian conflict: A cross‐cultural approach](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-0597.2008.00372.x) _2009_ published in _Applied …_
 
 ### 2008
-- [The psychological impact of impending forced settler disengagement in Gaza: trauma and posttraumatic growth](http://dx.doi.org/10.1002/jts.20301) _2008_ published in _J Trauma Stress_
-- [PTSD symptoms, forgiveness, and revenge among Israeli Palestinian and Jewish adolescents](http://dx.doi.org/10.1002/jts.20376) _2008_ published in _J Trauma Stress_
 - [Post-traumatic stress and psychiatric disorders in Palestinian adolescents following intifada-related injuries](http://dx.doi.org/10.1016/j.socscimed.2008.06.013) _2008_ published in _Soc Sci Med_
 - [Do burns increase the severity of terror injuries?](http://dx.doi.org/10.1097/BCR.0b013e31818b9dc9) _2008_ published in _J Burn Care Res_
 - [Exposure to war trauma and PTSD among parents and children in the Gaza strip](http://dx.doi.org/10.1007/s00787-007-0653-9) _2008_ published in _Eur Child Adolesc Psychiatry_
@@ -385,9 +334,7 @@
 - [You should know better: Expressions of empathy and disregard among victims of massive social trauma](https://www.embase.com/search/results?subaction=viewrecord&id=L355576321&from=export) _2008_ published in _J Aggression Maltreat Trauma_
 - [Contextualized emotional images in children's dreams: Psychological adjustment in conditions of military trauma](https://www.embase.com/search/results?subaction=viewrecord&id=L351649987&from=export) _2008_ published in _Int J Behav Dev_
 - [Extending the Rorschach trauma content index and aggression indexes to dream narratives of children exposed to enduring violence: An exploratory study](https://www.embase.com/search/results?subaction=viewrecord&id=L352539562&from=export) _2008_ published in _J Pers Assess_
-- [Traumatic in Israeli youth sample - An investigation of the prevalence and psychological impact of exposure to traumatic experiences](no-link) _2008_ published in _Nord. Psychol._
 - [The humanitarian politics of testimony: Subjectification through trauma in the Israeli-Palestinian conflict](no-link) _2008_ published in _Cult. Anthropol._
-- ["Trauma in Israeli youth: An investigation of the prevalence and psychological impact of exposure to traumatic experiences": Erratum.DP - Oct 2008](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2010-00378-002) _2008_ published in _Nordic Psychology_
 - [Training students for a shared traumatic reality](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2009-08069-009) _2008_ published in _Social Work_
 - [Toward healing trauma in the Holy Land](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2008-05024-001) _2008_ published in _PsycCRITIQUES_
 
@@ -402,7 +349,6 @@
 - [Traumatic growth in the face of terrorism: Threshold effects and action-based growth](no-link) _2007_ published in _Appl. Psychol.-Int. Rev.-Psychol. Appl.-Rev. Int._
 - [Post traumatic stress syndrome and Gaza.DP - May 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-11430-004) _2007_ published in _South African Psychiatry Review_
 - [Introduction to the special issue: Trauma and group therapy.DP - Dec 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2008-02240-001) _2007_ published in _Group_
-- [Posttraumatic symptomatology and psychological distress among immigrant Israelis confronting the recurring threat of terrorism: An exploration of coping strategies, locus of control, perceived social support, and adult attachment.DP - 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-99014-270) _2007_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 - [From the trauma vortex to the healing vortex: A new paradigm for healing the Israeli-Palestinian crisis](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-13408-034) _2007_ published in _Kuriansky, Judy [Ed]_
 - [Trauma and dreaming: Trauma impact on dream recall, content and patterns, and the mental health function of dreams](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-09896-008) _2007_ published in _Barrett, Deirdre [Ed]_
 - [Broken promises, broken dreams: Stories of Jewish and Palestinian trauma and resilience.DP - 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-23329-000) _2007_ published in _No Journal_
@@ -411,14 +357,11 @@
 - [Healing the wounds of war: Gaza Diary](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16541993) _2006_ published in _Altern Ther Health Med_
 - [Terror-inflicted thermal injury: A retrospective analysis of burns in the Israeli-Palestinian conflict between the years 1997 and 2003](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17159697) _2006_ published in _J Trauma_
 - [Trauma exposure in pre-school children in a war zone](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16449703) _2006_ published in _Br J Psychiatry_
-- [Paediatric rehabilitation in Israel: Unique problems, exceptional solutions](https://www.embase.com/search/results?subaction=viewrecord&id=L41790212&from=export) _2006_ published in _Pediatr Rehab_
 - [Psychological distress and resources among siblings and parents exposed to traumatic events](https://www.embase.com/search/results?subaction=viewrecord&id=L44768777&from=export) _2006_ published in _Int J Behav Dev_
 - [Communal and familial war-related stress factors: The case of the Palestinian child](no-link) _2006_ published in _J. Loss Trauma_
-- [Posttraumatic symptoms and posttraumatic growth among Israeli youth exposed to terror incidents](no-link) _2006_ published in _J. Soc. Clin. Psychol._
 - [Healing the wounds of war in Gaza and Israel: A mind-body approach](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-21756-027) _2006_ published in _Kuriansky, Judy [Ed]_
 - [Lost paradise: Trauma and martyrdom in Palestinian families](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-21756-009) _2006_ published in _Kuriansky, Judy [Ed]_
 - [The effect of trauma on dream content--A field study of Palestinian children](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-09527-001) _2006_ published in _Dreaming_
-- [Play and Adaptation in Traumatized Young Children and Their Caregivers in Israel](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-05770-008) _2006_ published in _Barbanel, Laura [Ed]_
 
 ### 2005
 - [DESNOS in three postconflict settings: assessing cross-cultural construct equivalence](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16281191) _2005_ published in _J Trauma Stress_
@@ -431,8 +374,6 @@
 - [Trauma call](https://www.embase.com/search/results?subaction=viewrecord&id=L40601739&from=export) _2005_ published in _Care Crit Ill_
 - [Voice therapy for women aligned with political prisoners: A case study of trauma among Palestinian women in the second intifada](no-link) _2005_ published in _Soc. Serv. Rev._
 - [Adult attachment, posttraumatic growth and negative emotions among former political prisoners](no-link) _2005_ published in _Anxiety Stress Coping_
-- [Traumatic Grief and Bereavement Resulting from Terrorism: Israeli and American Perspectives](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc5&AN=2005-09463-008) _2005_ published in _Heilman, Samuel [Ed]_
-- [Transforming trauma into tragedy: Oedipus/Israel and the psychoanalyst as messenger](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc5&AN=2006-00701-010) _2005_ published in _Psychoanalytic Review_
 - [Debriefing interventions for stressful events among collective societies: The case of the Palestinian-Arabs in Israel](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc5&AN=2005-09428-004) _2005_ published in _Australasian Journal of Disaster and Trauma Studies_
 
 ### 2004

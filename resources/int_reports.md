@@ -4,6 +4,7 @@
 - [**Crisis in Gaza: Scenario-Based Health Impact Projections**](https://gaza-projections.org/) _(current)_
 
 ## UN Reports
+- [**Anatomy of a Genocide – Report of the Special Rapporteur on the situation of human rights in the Palestinian territory occupied since 1967 to Human Rights Council**](https://www.un.org/unispal/document/anatomy-of-a-genocide-report-of-the-special-rapporteur-on-the-situation-of-human-rights-in-the-palestinian-territory-occupied-since-1967-to-human-rights-council-advance-unedited-version-a-hrc-55/) _(2024)_
 - [**Humanitarian Situation: occupied Palestinian territory (OCHA)**](https://reliefweb.int/country/pse) _(current)_
 - [**The Goldstone Report: The Legacy of the Landmark Investigation of the Gaza Conflict**](https://books.google.nl/books?id=OsM94e1GHxAC) _(2011)_
 

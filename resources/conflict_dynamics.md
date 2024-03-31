@@ -32,6 +32,7 @@
 - [Violence and State Attribution: The Case of Occupied Palestine](no-link) _2023_ published in _J. Palest. Stud._
 - [Persistent Faces: Palestinian Fatherhood Against Necropower](no-link) _2023_ published in _Peace Confl._
 - [Decolonization unnamed: Echoes of healing and refusal in the face of dehumanization and alienation](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc22&AN=2023-78410-001) _2023_ published in _Peace and Conflict: Journal of Peace Psychology_
+- [Association between war-related traumatic events and blood pressure trajectory: a population-based study among the mid-aged and older Palestinian adults living in Gaza](http://dx.doi.org/10.3389/fpubh.2023.1073284) _2023_ published in _Front. public health_
 
 ### 2022
 - [War-related quality of life is associated with depressive symptoms and hopelessness among Palestinians: sense of belonging and resilience as mediating variables](http://dx.doi.org/10.1017/gmh.2022.52) _2022_ published in _Glob Ment Health (Camb)_
