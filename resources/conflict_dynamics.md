@@ -171,7 +171,6 @@
 - [Expanding the bounds of military psychiatry: Three clinical encounters](https://www.embase.com/search/results?subaction=viewrecord&id=L352537764&from=export) _2008_ published in _Anthropol Med_
 - [The well being of children living in chronic war zones: The Palestinian-Israeli case](https://www.embase.com/search/results?subaction=viewrecord&id=L351958980&from=export) _2008_ published in _Int J Behav Dev_
 - [Iraqi adolescents: Self-regard, self-derogation, and perceived threat in war](no-link) _2008_ published in _J. Adolesc._
-- [Reduced to Bad Sex: Narratives of Violent Women from the Bible to the War on Terror](no-link) _2008_ published in _Int. Relat._
 - [Attitudes of men and women towards wife beating: Findings from Palestinian refugee camps in Jordan](no-link) _2008_ published in _J. Fam. Violence_
 
 ### 2007

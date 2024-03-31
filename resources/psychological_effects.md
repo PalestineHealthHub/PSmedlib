@@ -214,7 +214,6 @@
 - [Closing the gap between psychiatric epidemiology and mental health in post-conflict situations](https://www.embase.com/search/results?subaction=viewrecord&id=L34607052&from=export) _2002_ published in _Lancet_
 
 ### 2001
-- [The rates of child sexual abuse and its psychological consequences as revealed by a study among Palestinian university students](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11720381) _2001_ published in _Child Abuse Negl_
 - [Resiliency factors predicting psychological adjustment after political violence among Palestinian children](https://www.embase.com/search/results?subaction=viewrecord&id=L32519645&from=export) _2001_ published in _Int J Behav Dev_
 - [Mental flexibility as resiliency factor among children exposed to political violence](no-link) _2001_ published in _Int. J. Psychol._
 
