@@ -12,7 +12,7 @@
 - [Invisible wounds of the Israel-Gaza war in Australia](http://dx.doi.org/10.5694/mja2.52168) _2024_ published in _Med J Aust_
 
 ### 2023
-- [Growing Up on the Edge: A Community-Based Mental Health Intervention for Children in Gaza](http://dx.doi.org/10.1007/s10802-023-01124-2) _2023_ published in _No Journal_
+- [Growing Up on the Edge: A Community-Based Mental Health Intervention for Children in Gaza](http://dx.doi.org/10.1007/s10802-023-01124-2) _2023_ published in _Res. Child Adolesc. Psychopathol._
 - [Resilience under protracted conflict and siege: a new paradigm shift](https://www.tandfonline.com/doi/full/10.1080/13623699.2023.2258325?casa_token=G343obNA8WIAAAAA%3AxyC3CupMJhRPlCThxbHYZ1Ics3USLrFv5RbmxRilJGdrxU9gvtKCSkb6F562iP6-n0okWy2kWXET) _2023_ published in _ Med. Conflict. Surviv._
 - [Pooled analysis of the association between mental health and violence against women: evidence from five settings in the Global South](http://dx.doi.org/10.1136/bmjopen-2022-063730) _2023_ published in _BMJ Open_
 - [Parent-adolescent coping with prolonged geopolitical conflict: A qualitative analysis focusing on distress and resilience](no-link) _2023_ published in _Fam. Process_
