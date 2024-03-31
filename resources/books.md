@@ -8,5 +8,6 @@
 
 ## Non-fiction; Personal narratives, Biographies, Essays
 - [**Night in Gaza**](https://www.middleeasteye.net/features/book-review-night-gaza-dr-mads-gilbert) _(2015)_ by _Mads Gilbert_
+- [**I Shall Not Hate: A Gaza Doctor's Journey on the Road to Peace and Human Dignity**](https://en.wikipedia.org/wiki/I_Shall_Not_Hate) _(2011)_ by _Izzeldin Abuelaish_
 - [**Eyes in Gaza**](https://www.goodreads.com/book/show/7994623-eyes-in-gaza) _(2009)_ by _Mads Gilbert & Erik Fosse_
 

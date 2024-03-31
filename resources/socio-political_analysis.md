@@ -1,7 +1,7 @@
 # Socio-political Analysis
 
 ## Journal Articles
-[2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2003](#2003) | [2000](#2000) | [1999](#1999) | [1998](#1998) | [1996](#1996) | [1995](#1995) | [1989](#1989)
+[2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2003](#2003) | [2000](#2000) | [1998](#1998) | [1996](#1996) | [1995](#1995) | [1989](#1989)
 
 ### 2023
 - [Psychosocial problems of healthcare for pregnant refugees – a systematic review](https://www.embase.com/search/results?subaction=viewrecord&id=L2029776460&from=export) _2023_ published in _Psychiatr Psychol Klin_
@@ -16,15 +16,12 @@
 - [Toward a Culture-Informed Conceptualization of Child Agency in a Context Characterized by Political and Military Violence. A Qualitative Exploration throughout Experts' Voices](no-link) _2022_ published in _Child Indic. Res._
 - [Structural violence and sources of resistance among Palestinian children living under military occupation and political oppression](no-link) _2022_ published in _J. Int. Intercult. Commun._
 - [The Palestinian health-care providers' perceptions, challenges and human rights-related concerns during the COVID-19 pandemic](no-link) _2022_ published in _Int. J. Hum. Rights Health Care_
-- [Security as care: communitarianism, social reproduction and gender in southern Israel](no-link) _2022_ published in _Fem. Theory_
-- [The Representation of the Holocaust in Israeli Society and Its Implications on Conceptions of Democracy and Human Rights of "Others"](no-link) _2022_ published in _Genealogy_
 - [Psychoanalysis under occupation: Practicing resistance in Palestine.ST - Psychoanalytic political theory](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc21&AN=2022-06526-000) _2022_ published in _No Journal_
 
 ### 2021
 - [Protective Factors in the Face of Political Violence: The Role of Caregiver Resilience and Parenting Styles in Palestine](no-link) _2021_ published in _Peace Confl._
 - [Risk and Protective Factors Among Palestinian Women Living in a Context of Prolonged Armed Conflict and Political Oppression](no-link) _2021_ published in _J. Interpers. Violence_
 - [Individual Exposure to Terror and Political Attitudes: A Physiologically-Based Model of Militancy](no-link) _2021_ published in _Terror. Polit. Violence_
-- [Ethno-political socialization of young children in societies involved in intractable conflict: The case of Israel](no-link) _2021_ published in _J. Soc. Issues_
 - [The socioeconomic burden of antibiotic resistance in conflict-affected settings and refugee hosting countries: a systematic scoping review](no-link) _2021_ published in _Confl. Health_
 - [Disrupting the hierarchy of knowledge production: the case of documenting social theatre in Palestine](no-link) _2021_ published in _Stud. Theatr. Perform._
 - [Effects of political violence exposure on the family and parenting environment: The case of Palestinians and Israelis](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2020-72921-005) _2021_ published in _Greenbaum, Charles W [Ed]_
@@ -73,7 +70,6 @@
 
 ### 2015
 - [Effectiveness of psychosocial intervention enhancing resilience among war-affected children and the moderating role of family factors](http://dx.doi.org/10.1016/j.chiabu.2014.12.002) _2015_ published in _Child Abuse Negl_
-- [In the Eye of the Storm: Israeli Psychoanalysis and its Political Surroundings](no-link) _2015_ published in _Psychother. Politics Int._
 - [Community-based child protection with Palestinian refugees in South Lebanon: Engendering hope and safety](no-link) _2015_ published in _Int. Soc. Work_
 
 ### 2014
@@ -95,8 +91,6 @@
 
 ### 2011
 - [Human rights violations during Israel's attack on the Gaza Strip: 27 December 2008 to 19 January 2009](http://dx.doi.org/10.1080/17441692.2010.551518) _2011_ published in _Glob Public Health_
-- [Resilience and Political Violence: A Cross-Cultural Study of Moderating Effects Among Jewish- and Arab-Israeli Youth](no-link) _2011_ published in _Youth Soc._
-- [Adolescents Exposed to 7 Years of Political Violence: Differential Relations Between Exposure and Its Impact for Jewish and Arab Israelis](no-link) _2011_ published in _Child Indic. Res._
 
 ### 2010
 - [Psychosocial outcomes related to subjective threat from armed conflict events (STACE): Findings from the Israeli-Palestinian cross-cultural HBSC study](http://dx.doi.org/10.1016/j.chiabu.2009.12.007) _2010_ published in _Child Abuse Negl_
@@ -107,13 +101,11 @@
 - [Personality vulnerability, low social support, and maladaptive cognitive emotion regulation under ongoing exposure to terrorist attacks](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-03599-003) _2010_ published in _Journal of Social and Clinical Psychology_
 
 ### 2009
-- [Terror, Resource Gains and Exclusionist Political Attitudes among New Immigrants and Veteran Israelis](no-link) _2009_ published in _J. Ethn. Migr. Stud._
 - [Objectivism and bias on the study of the Israeli-Palestinian conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2009-22886-024) _2009_ published in _Analyses of Social Issues and Public Policy_
 - [Palestinian women's voices challenging human rights activism](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2009-15985-001) _2009_ published in _Women's Studies International Forum_
 - [Adolescents and war: How youth deal with political violence.DP - 2009](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2008-12751-000) _2009_ published in _No Journal_
 
 ### 2008
-- [LOCATING THE FRAGMENTS OF THE STATE AND THEIR LIMITS Water Policymaking in Israel during the 1950s](no-link) _2008_ published in _Isr. Stud. Rev._
 - [Contrasting portraits of war: Youths' varied experiences with political violence in Bosnia and Palestine](no-link) _2008_ published in _Int. J. Behav. Dev._
 
 ### 2007
@@ -125,9 +117,6 @@
 
 ### 2000
 - [Terrorist on trial: the context of political crime](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10888184) _2000_ published in _J Am Acad Psychiatry Law_
-
-### 1999
-- ["One people, one blood": Public health, political violence, and HIV in an Ethiopian-Israeli setting.DP - Jun 1999](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc3&AN=1999-03902-001) _1999_ published in _Culture, Medicine, and Psychiatry: An International Journal of Cross Cultural Health Research_
 
 ### 1998
 - [Psychosocial adjustment in middle eastern adolescents: The relative impact of violent vs. non-violent social disorganization](https://www.embase.com/search/results?subaction=viewrecord&id=L28228295&from=export) _1998_ published in _Community Ment Health J_
