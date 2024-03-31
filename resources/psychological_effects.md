@@ -67,9 +67,7 @@
 - ["The utmost strength I can bear": Strategies and psychological costs of mothering within political violence](no-link) _2020_ published in _Feminism Psychol._
 - [From sumud to intifada: Supporting non-violent action to enhance mental health](no-link) _2020_ published in _Int. J. Appl.. Psychoanal. Stud._
 - [Gun to body: Mental health against unchilding](no-link) _2020_ published in _Int. J. Appl.. Psychoanal. Stud._
-- [Life on the Western Front of Israel Stressful Living Conditions and Adolescent Cannabis Use](no-link) _2020_ published in _Int. J. Mental Health Addict._
 - [On Mental Health Amid Covid-19](no-link) _2020_ published in _J. Palest. Stud._
-- [I see no problem because there is no problem: denial and silence among Israeli mental health professionals during the first Intifada](no-link) _2020_ published in _Isr. Aff._
 
 ### 2019
 - [Quality or quantity of coping resources: Why not both? An integration of common stress theories](http://dx.doi.org/10.1016/j.psychres.2018.12.051) _2019_ published in _Psychiatry Res_
@@ -84,11 +82,9 @@
 - [Society, individual, family, and school factors contributing to child mental health in war: The ecological-theory perspective](http://dx.doi.org/10.1016/j.chiabu.2018.07.033) _2018_ published in _Child Abuse Negl_
 - [Contributors to Screening Positive for Mental Illness in Lebanon's Shatila Palestinian Refugee Camp](http://dx.doi.org/10.1097/nmd.0000000000000751) _2018_ published in _J Nerv Ment Dis_
 - [The Co-Occurrence and Unique Mental Health Effects of Political Violence and Intimate Partner Violence](http://dx.doi.org/10.1177/0886260515605120) _2018_ published in _J Interpers Violence_
-- [Engagement in community activities and trust in local leaders as concomitants of psychological distress among Israeli civilians exposed to prolonged rocket attacks](http://dx.doi.org/10.1080/10615806.2018.1460747) _2018_ published in _Anxiety stress coping_
 - [Prevalence of functional constipation among Palestinian preschool children and the relation to stressful life events](https://www.embase.com/search/results?subaction=viewrecord&id=L625331717&from=export) _2018_ published in _PLoS ONE_
 - [Conflict and well-being: a comparative study of health-related quality of life, stress, and insecurity of university students in the West Bank and Jordan](no-link) _2018_ published in _Qual. Life Res._
 - [Review: How should child mental health services respond to the refugee crisis?](no-link) _2018_ published in _Child Adolesc. Ment. Health_
-- [Life on the Western Front of Israel Stressful Living Conditions and Adolescent Cannabis Use](no-link) _2018_ published in _Int. J. Mental Health Addict._
 - [Post-traumatic Stress Disorder Among Health Care Providers Two Years Following the Israeli Attacks Against Gaza Strip in August 2014: Another Call for Policy Intervention](http://dx.doi.org/10.1016/j.apnu.2017.10.014) _2018_ published in _Arch Psychiatr Nurs_
 - [The Effectiveness of Therapeutic and Psychological Intervention Programs in PTC-GAZA](http://dx.doi.org/10.1007/s40653-018-0213-0) _2018_ published in _J. child adolesc. trauma_
 
@@ -100,7 +96,6 @@
 - [Armed conflict and child mental health](https://www.embase.com/search/results?subaction=viewrecord&id=L624022249&from=export) _2017_ published in _BMJ Paediatr Open_
 - [Political violence and mental health: Effects of neoliberalism and the role of international social work practice](no-link) _2017_ published in _Int. Soc. Work_
 - [Children Affected by War and Armed Conflict: Parental Protective Factors and Resistance to Mental Health Symptoms](no-link) _2017_ published in _Front. Psychol._
-- [The Impact of Militarism, Patriarchy, and Culture on Israeli Women's Reproductive Health and Well-Being](no-link) _2017_ published in _Int. J. Behav. Med._
 
 ### 2016
 - [Mental Suffering in Protracted Political Conflict: Feeling Broken or Destroyed](http://dx.doi.org/10.1371/journal.pone.0156216) _2016_ published in _PLoS ONE_
@@ -116,7 +111,6 @@
 - [The effects of prolonged exposure to terror on psychological distress symptoms, behaviors, and attitudes.DP - 2016](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc15&AN=2016-26518-284) _2016_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 
 ### 2015
-- [Anxiety-Inducing Media: The Effect of Constant News Broadcasting on the Well-Being of Israeli Television Viewers](http://dx.doi.org/10.1080/00332747.2015.1069658) _2015_ published in _Psychiatry_
 - [The Impact of Parental Detention on the Psychological Wellbeing of Palestinian Children](http://dx.doi.org/10.1371/journal.pone.0133347) _2015_ published in _PLoS ONE_
 - [Prevalence and mental health function of resilience in condition of military siege and violence in a Palestinian community sample](https://www.embase.com/search/results?subaction=viewrecord&id=L606854763&from=export) _2015_ published in _Afr J Psychiatry_
 - [Fundamentalism in the Mental Health System - Children Agency and Activism in the Shadow of PTSD Industry A Palestinian Case Study](no-link) _2015_ published in _No Journal_
@@ -130,9 +124,7 @@
 - [Overview of research on the mental health impact of violence in the Middle East in light of the Arab Spring](http://dx.doi.org/10.1097/nmd.0000000000000174) _2014_ published in _J Nerv Ment Dis_
 - [Community resilience and sense of coherence as protective factors in explaining stress reactions: comparing cities and rural communities during missiles attacks](http://dx.doi.org/10.1007/s10597-013-9623-5) _2014_ published in _Community Ment Health J_
 - [Improving mental health is key to reduce violence in Israel and Gaza](http://dx.doi.org/10.1016/s0140-6736(14)61328-3) _2014_ published in _Lancet_
-- [Regular drinking may strengthen the beneficial influence of social support on depression: findings from a representative Israeli sample during a period of war and terrorism](http://dx.doi.org/10.1016/j.drugalcdep.2014.04.014) _2014_ published in _Drug Alcohol Depend_
 - [Family quality of life and child psychological well-being in Palestine: A pilot case study](no-link) _2014_ published in _J. Soc. Work_
-- [Socio-ecological correlates of mental health among ethnic minorities in areas of political conflict: A study of Druze adolescents in Israel](no-link) _2014_ published in _Transcult. Psychiatry_
 - [Gender responses to psychological distress among Palestinians: Risk and protective factors](no-link) _2014_ published in _Br. J. Psychol._
 - [The relationship between mothers' mental health and the prevalence of depression and anxiety of preschool children after the war on Gaza Strip](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc13&AN=2014-29359-007) _2014_ published in _Arab Journal of Psychiatry_
 
@@ -161,7 +153,6 @@
 - [Editorial: Adieu and welcome.DP - Feb 2012](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2011-30029-001) _2012_ published in _Child and Adolescent Mental Health_
 
 ### 2011
-- [Resilience and distress: Israelis respond to the disengagement from Gaza and the second Lebanese war](http://dx.doi.org/10.1007/s10597-011-9371-3) _2011_ published in _Community Ment Health J_
 - [Mental health, social distress and political oppression: the case of the occupied Palestinian territory](http://dx.doi.org/10.1080/17441692.2010.528443) _2011_ published in _Glob Public Health_
 - [The limits of resilience: distress following chronic political violence among Palestinians](http://dx.doi.org/10.1016/j.socscimed.2011.02.022) _2011_ published in _Soc Sci Med_
 - [Psychiatric symptoms and psychosocial functioning among hospital personnel during the Gaza War: A repeated cross-sectional study](https://www.embase.com/search/results?subaction=viewrecord&id=L51295352&from=export) _2011_ published in _Psychiatry Res_
@@ -183,7 +174,6 @@
 - [A New Stress-Based Model of Political Extremism Personal Exposure to Terrorism, Psychological Distress, and Exclusionist Political Attitudes](no-link) _2009_ published in _J. Confl. Resolut._
 
 ### 2008
-- [The psychological toll of the Intifada: symptoms of distress and coping in Israeli soldiers](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19160946) _2008_ published in _Isr Med Assoc J_
 - [Investigation of exposure-symptom relationships in a context of recurrent violence](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17582733) _2008_ published in _J Anxiety Disord_
 - [Chronic exposure to catastrophic war experiences and political violence: Links to the well-being of children and their families: Introduction to the Special Issue](https://www.embase.com/search/results?subaction=viewrecord&id=L351958973&from=export) _2008_ published in _Int J Behav Dev_
 - [Psychological reactions to Israeli occupation: Findings from the national study of school-based screening in Palestine](https://www.embase.com/search/results?subaction=viewrecord&id=L351958977&from=export) _2008_ published in _Int J Behav Dev_
@@ -199,11 +189,9 @@
 - [Does political ideology moderate stress: The special case of soldiers conducting forced evacuation](no-link) _2007_ published in _Am. J. Orthopsychiatr._
 
 ### 2006
-- [Exposure to terrorism, stress-related mental health symptoms, and defensive coping among Jews and Arabs in Israel](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16649865) _2006_ published in _J Consult Clin Psychol_
 - [Risk and protective factors mediating psychological symptoms and ideological commitment of adolescents facing continuous terrorism](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16614550) _2006_ published in _J Nerv Ment Dis_
 
 ### 2005
-- [Stress-related responses after 3 years of exposure to terror in Israel: are ideological-religious factors associated with resilience?](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16187773) _2005_ published in _J Clin Psychiatry_
 - [Protecting the mental health of Gaza's inhabitants](https://www.embase.com/search/results?subaction=viewrecord&id=L40417555&from=export) _2005_ published in _Lancet_
 - [The psychological effects of Intifada Al Aqsa: Acute stress disorder and distress in Palestinian-Israeli students](no-link) _2005_ published in _Isr. J. Psychiatr. Relat. Sci._
 - [Depression and perceived family functioning in Croatian displaced children](no-link) _2005_ published in _Drus. Istraz._
@@ -246,12 +234,6 @@
 ### 1996
 - [The effects of state terrorism and exile on indigenous Guatemalan refugee children: A mental health assessment and an analysis of children's narratives](no-link) _1996_ published in _Child Dev._
 - [Children of the stones: Art therapy interventions in the West Bank.DP - 1996](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc3&AN=1997-07531-002) _1996_ published in _Art Therapy_
-
-### 1995
-- [Family therapy in Israel: A review of therapy done under unusual circumstances](no-link) _1995_ published in _Contemp. Fam. Ther._
-
-### 1994
-- [Comparison - Israeli Families Anxiety from Scud Missiles Versus Palestinian Families Anxiety since the Intifada](no-link) _1994_ published in _J. Soc. Distress Homeless_
 
 ### 1990
 - [The psychological impact of the Intifada on Palestinian children in the occupied West Bank and Gaza: an exploratory study](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2248361) _1990_ published in _Am J Orthopsychiatry_
