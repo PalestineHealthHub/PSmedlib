@@ -70,6 +70,7 @@
 - [On Mental Health Amid Covid-19](no-link) _2020_ published in _J. Palest. Stud._
 
 ### 2019
+- [Occupation, settlement, and the social determinants of health for West Bank Palestinians](https://www.tandfonline.com/doi/full/10.1080/13623699.2019.1666520?casa_token=wniWkQpffzkAAAAA%3Ar88HHBs2_mdOANZzj6nB-8jablbgvhuEueCj3qw01gitOztkXZncrLUvFgmgNF2NPTxjf0abeL9Q) _2019_ published in _Med. Confl. Surviv_
 - [Quality or quantity of coping resources: Why not both? An integration of common stress theories](http://dx.doi.org/10.1016/j.psychres.2018.12.051) _2019_ published in _Psychiatry Res_
 - [Depression in Youth Exposed to Disasters, Terrorism and Political Violence](https://www.embase.com/search/results?subaction=viewrecord&id=L2002260355&from=export) _2019_ published in _Curr Psychiatry Rep_
 - [Well-being and pressures of daily life in two West Bank villages-Exploring context and history](no-link) _2019_ published in _Int. J. Psychol._
