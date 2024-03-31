@@ -3,7 +3,6 @@
 ## Journal Articles
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) | [2006](#2006) | [2005](#2005) | [2004](#2004) | [2003](#2003) | [2002](#2002) | [2001](#2001) | [2000](#2000) | [1999](#1999) | [1998](#1998) | [1997](#1997) | [1996](#1996) | [1995](#1995) | [1993](#1993) | [1992](#1992) | [1988](#1988) | [1950](#1950)
 
-
 ### 2023
 - [Consequences of Exposure to War Violence: Discriminating Those with Heightened Risk for Aggression from Those with Heightened Risk for Post-Traumatic Stress Symptoms](http://dx.doi.org/10.3390/ijerph20126067) _2023_ published in _Int. J. Environ. Res. Public Health_
 - [Transgenerational trauma and collective resilience: A qualitative analysis of the experiences of settler-colonial violence among three generations of Palestinian refugees](http://dx.doi.org/10.1177/00207640231175787) _2023_ published in _Int J Soc Psychiatry_
@@ -71,7 +70,6 @@
 - [Multigenerational reactions to situations of ongoing stress: Children's and parents' perspectives on facing a prolonged period of missile attacks](no-link) _2021_ published in _J. Fam. Trauma Child Custody Child Dev._
 - [A Generation 1.5 Palestinian Diaspora Child Refugee in Chile](no-link) _2021_ published in _J. Loss Trauma_
 - [Thinking Trauma, Essayistically: Configurations of Home, Loss and Memory in Liwaa Yazji's <i>Haunted (Maskoon,</i> 2014)](no-link) _2021_ published in _Ekprasis_
-- [Psychic trauma and competing nationalisms in the Israeli-Palestinian conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2021-46733-002) _2021_ published in _Goldfield, Norbert [Ed]_
 - [Prolonged exposure to political violence and the development of post-traumatic stress symptoms in Palestinian adolescents: Moderating effects of parenting styles, age, and gender](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2020-72921-006) _2021_ published in _Greenbaum, Charles W [Ed]_
 
 ### 2020
@@ -385,7 +383,6 @@
 
 ### 2002
 - [The relation of appraisal, coping efforts, and acuteness of trauma to PTS symptoms among former political prisoners](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12092917) _2002_ published in _J Trauma Stress_
-- [Trauma Practice in the Wake of September 11, 2001.DP - 2002](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc4&AN=2004-12293-000) _2002_ published in _No Journal_
 - [Working with traumatised people](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc4&AN=2002-13113-020) _2002_ published in _The International Journal of Psychoanalysis_
 
 ### 2001
