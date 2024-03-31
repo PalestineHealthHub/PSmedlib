@@ -26,12 +26,11 @@
 - [The memory-experience gap for PTSD symptoms: The correspondence between experience sampling and past month retrospective reports of traumatic stress symptoms](http://dx.doi.org/10.1016/j.psychres.2021.114315) _2022_ published in _Psychiatry Res_
 - [To shoot or not to shoot: experiments on moral injury in the context of West Bank checkpoints and COVID-19 restrictions enforcement](http://dx.doi.org/10.1080/20008198.2021.2013651) _2022_ published in _Eur J Psychotraumatol_
 - [Democratization of terrorism: an analysis of vehicle-based terrorist events](http://dx.doi.org/10.1136/tsaco-2022-000964) _2022_ published in _Trauma surg. acute care open_
-- [Basic Psychological Needs Satisfaction: A Way to Enhance Resilience in Traumatic Situations](http://dx.doi.org/10.3390/ijerph19116649) _2022_ published in _No Journal_
-- [Evaluating the Role of Maternal and Paternal Trauma Exposure, Emotional Security, and Mental Health in Predicting Psychological Adjustment among Palestinian Adolescents](http://dx.doi.org/10.3390/ijerph19159288) _2022_ published in _No Journal_
+- [Basic Psychological Needs Satisfaction: A Way to Enhance Resilience in Traumatic Situations](http://dx.doi.org/10.3390/ijerph19116649) _2022_ published in _Int. J. Environ. Res._
+- [Evaluating the Role of Maternal and Paternal Trauma Exposure, Emotional Security, and Mental Health in Predicting Psychological Adjustment among Palestinian Adolescents](http://dx.doi.org/10.3390/ijerph19159288) _2022_ published in _Int. J. Environ. Res._
 - [Evidence of possible lower limb amputation in a tomb in an ancient Egyptian necropolis: the case report of an on-site radiographic analysis](http://dx.doi.org/10.1259/bjrcr.20220090) _2022_ published in _BJR case rep._
 - [Psychological first aid training in disaster preparedness for nurses working with emergencies and traumas](http://dx.doi.org/10.1111/inr.12749) _2022_ published in _Int Nurs Rev_
 - [The impact of political violence on posttraumatic stress symptomology: a longitudinal analysis](http://dx.doi.org/10.1080/10615806.2021.1950694) _2022_ published in _Anxiety stress coping_
-- [Combat Injury Profile in Urban Warfare](http://dx.doi.org/10.1093/milmed/usac366) _2022_ published in _No Journal_
 - [Out of time? The effect of an infrequent traumatic event on individuals' time and risk preferences, beliefs, and insurance purchasing](http://dx.doi.org/10.1016/j.jhealeco.2022.102678) _2022_ published in _J Health Econ_
 - ["No safe place": Applying the transactional stress and coping model to active warfare](http://dx.doi.org/10.1037/tra0001023) _2022_ published in _Psychol Trauma_
 - [Palestinian children living amidst political and military violence deploy active protection strategies against psychological trauma: How agency can mitigate traumatic stress via life satisfaction](http://dx.doi.org/10.1177/13674935211017727) _2022_ published in _J Child Health Care_
@@ -72,9 +71,7 @@
 - [Multigenerational reactions to situations of ongoing stress: Children's and parents' perspectives on facing a prolonged period of missile attacks](no-link) _2021_ published in _J. Fam. Trauma Child Custody Child Dev._
 - [A Generation 1.5 Palestinian Diaspora Child Refugee in Chile](no-link) _2021_ published in _J. Loss Trauma_
 - [Thinking Trauma, Essayistically: Configurations of Home, Loss and Memory in Liwaa Yazji's <i>Haunted (Maskoon,</i> 2014)](no-link) _2021_ published in _Ekprasis_
-- [Displaced A 360-Degree Virtual Reality Narrative about Immigration-Related Trauma](no-link) _2021_ published in _No Journal_
 - [Psychic trauma and competing nationalisms in the Israeli-Palestinian conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2021-46733-002) _2021_ published in _Goldfield, Norbert [Ed]_
-- [The intersection of trauma and disaster behavioral health.DP - 2021](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2021-36859-000) _2021_ published in _No Journal_
 - [Prolonged exposure to political violence and the development of post-traumatic stress symptoms in Palestinian adolescents: Moderating effects of parenting styles, age, and gender](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc20&AN=2020-72921-006) _2021_ published in _Greenbaum, Charles W [Ed]_
 
 ### 2020
@@ -185,7 +182,6 @@
 - [Therapeutic Intervention in a Continuous Shared Traumatic Reality: An Example from the Israeli-Palestinian Conflict](no-link) _2017_ published in _Br. J. Soc. Work_
 - [Making sense of collective identity and trauma through drawing: the case study of a Palestinian refugee student](no-link) _2017_ published in _Intercult. Educ._
 - [Dwelling at the thresholds: Witnesses to historical trauma across concentric fields](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2017-14730-003) _2017_ published in _Alpert, Judith L [Ed]_
-- [Psychoanalysis, trauma, and community: History and contemporary reappraisals.ST - Relational perspectives book series](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2017-14730-000) _2017_ published in _No Journal_
 - [Traumatic stress symptoms, forgiveness, and meaning in life in four traumatized regions of the world](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2016-46628-001) _2017_ published in _International Perspectives in Psychology: Research, Practice, Consultation_
 - [War trauma and maternal–fetal attachment predicting maternal mental health, infant development, and dyadic interaction in Palestinian families](https://www.tandfonline.com/doi/abs/10.1080/14616734.2017.1330833) _2017_ published in _Attachment &human …_
 
@@ -208,7 +204,6 @@
 - [Museumizing trauma: Social politics and memory after the 2005 evacuation of the Jewish communities of Gaza](no-link) _2016_ published in _Mem. Stud._
 - [Intergenerational trauma framework for programme efficacy studies: child trauma recovery in occupied Palestine](no-link) _2016_ published in _Crit. Radic. Soc. Work_
 - ["The wound is still open": the Nakba experience among internally displaced Palestinians in Israel](no-link) _2016_ published in _Int. J. Migr. Health Soc. Care_
-- [Rehabilitation Counseling of Boko Haram Insurgents in North East Nigeria: A Perspective for Attainment of Global Peace](no-link) _2016_ published in _No Journal_
 - [War, trauma, and cognition of Palestinian children.DP - 2016](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc15&AN=2016-42143-006) _2016_ published in _Dissertation Abstracts International: Section B: The Sciences and Engineering_
 - [Mind-body skills groups for posttraumatic stress disorder in Palestinian adults in Gaza](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc15&AN=2016-39250-001) _2016_ published in _Traumatology_
 - [Palestinian youth and their families in an area of conflict, stress and trauma](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc15&AN=2016-34511-007) _2016_ published in _Merrick, Joav [Ed]_
@@ -241,7 +236,7 @@
 - [Loss and Psychosocial Support Among Palestinian Women in the Occupied Territories: An Evaluation of the Effectiveness of the "From a Bereaved Woman to Another" Project](no-link) _2014_ published in _J. Loss Trauma_
 - [Save (us from) the children: trauma, Palestinian childhood, and the production of governable subjects](no-link) _2014_ published in _Child. Geogr._
 - [Dynamics of Oppression and Coping From Traumatology Perspective: The Example of Palestinian Adolescents](no-link) _2014_ published in _Peace Confl._
-- [Gaza Nurses After War: Are They Traumatized?](no-link) _2014_ published in _No Journal_
+- [Gaza Nurses After War: Are They Traumatized?](https://www.sciencedirect.com/science/article/pii/S1877042813054293) _2014_ published in _Procedia Soc. Behav. Sci._
 - [Trauma under Fire: Treating Post-Traumatic Stress Disorder in Sderot](no-link) _2014_ published in _Psychother. Politics Int._
 - [Protective Factors Based Model for Screening for Posttraumatic Distress in Adolescents](no-link) _2014_ published in _Child Youth Care Forum_
 - [Family crisis intervention in war contexts: a case study of a traumatised Palestinian family](no-link) _2014_ published in _Brit. J. Guid. Couns._
@@ -322,7 +317,6 @@
 - [Religiosity and Posttraumatic Stress Following Forced Relocation](no-link) _2009_ published in _J. Loss Trauma_
 - [Violent Death: A Qualitative Study of Israeli and Palestinian Families](no-link) _2009_ published in _J. Loss Trauma_
 - [Trauma by proxy: A self-analytic exploration of the trials of developing an Arab identity](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2009-13406-004) _2009_ published in _International Journal of Applied Psychoanalytic Studies_
-- [The empire of trauma: An inquiry into the condition of victimhood](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2009-08271-000) _2009_ published in _No Journal_
 - [Challenges for students working in a shared traumatic reality](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2009-05250-006) _2009_ published in _British Journal of Social Work_
 - [Posttraumatic symptoms, functional impairment, and coping among adolescents on both sides of the Israeli–Palestinian conflict: A cross‐cultural approach](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-0597.2008.00372.x) _2009_ published in _Applied …_
 
@@ -351,7 +345,6 @@
 - [Introduction to the special issue: Trauma and group therapy.DP - Dec 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2008-02240-001) _2007_ published in _Group_
 - [From the trauma vortex to the healing vortex: A new paradigm for healing the Israeli-Palestinian crisis](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-13408-034) _2007_ published in _Kuriansky, Judy [Ed]_
 - [Trauma and dreaming: Trauma impact on dream recall, content and patterns, and the mental health function of dreams](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2007-09896-008) _2007_ published in _Barrett, Deirdre [Ed]_
-- [Broken promises, broken dreams: Stories of Jewish and Palestinian trauma and resilience.DP - 2007](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2006-23329-000) _2007_ published in _No Journal_
 
 ### 2006
 - [Healing the wounds of war: Gaza Diary](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16541993) _2006_ published in _Altern Ther Health Med_

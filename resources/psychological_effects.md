@@ -116,7 +116,6 @@
 ### 2015
 - [The Impact of Parental Detention on the Psychological Wellbeing of Palestinian Children](http://dx.doi.org/10.1371/journal.pone.0133347) _2015_ published in _PLoS ONE_
 - [Prevalence and mental health function of resilience in condition of military siege and violence in a Palestinian community sample](https://www.embase.com/search/results?subaction=viewrecord&id=L606854763&from=export) _2015_ published in _Afr J Psychiatry_
-- [Fundamentalism in the Mental Health System - Children Agency and Activism in the Shadow of PTSD Industry A Palestinian Case Study](no-link) _2015_ published in _No Journal_
 - ['When the doors of Hell close': Dimensions of well-being and positive adjustment in a group of Palestinian children living amidst military and political violence](no-link) _2015_ published in _Child.-Glob. J. Child Res._
 - [An overview of the mental health system in Gaza: an assessment using the World Health Organization's Assessment Instrument for Mental Health Systems (WHO-AIMS)](no-link) _2015_ published in _Int. J. Ment. Health Syst._
 - [Dream Dome: Do Dreams Shield the Psyche in Times of Continuous Stress?](no-link) _2015_ published in _Dreaming_
@@ -149,7 +148,6 @@
 - [Impact of war, religiosity and ideology on PTSD and psychiatric disorders in adolescents from Gaza Strip and South Lebanon](http://dx.doi.org/10.1016/j.socscimed.2012.02.025) _2012_ published in _Soc Sci Med_
 - [Short and longer-term psychological consequences of Operation Cast Lead: documentation from a mental health program in the Gaza Strip](http://dx.doi.org/10.1186/1752-1505-6-8) _2012_ published in _Confl Health_
 - [Major depression across West Bank: a cross-sectional general population study](http://dx.doi.org/10.1177/0020764010396410) _2012_ published in _Int J Soc Psychiatry_
-- [The effect of prolonged exposure to war-related stress among hospital personnel with different affect types: lessons from the Second Lebanon War and the Gaza "Cast Lead" operation](http://dx.doi.org/10.3402/ejpt.v3i0.7165) _2012_ published in _No Journal_
 - [Childrens mental health and civil society in the Gaza strip](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22945199) _2012_ published in _PSYCHIATR. DANUB._
 - [Counseling and Mental Health Care in Palestine](no-link) _2012_ published in _J. Couns. Dev._
 - [Dehumanization, guilt and large group dynamics with reference to the west, Israel and the Palestinians.DP - Aug 2012](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc11&AN=2012-23062-008) _2012_ published in _British Journal of Psychotherapy_
@@ -200,7 +198,6 @@
 - [Depression and perceived family functioning in Croatian displaced children](no-link) _2005_ published in _Drus. Istraz._
 - [The long-term effects of war experiences on children's depression in the Republic of Croatia](no-link) _2005_ published in _Child Abuse Negl._
 - [Prevalence of wife beating in Jordanian refugee camps: Reports by men and women](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc5&AN=2005-11367-004) _2005_ published in _Journal of Epidemiology and Community Health_
-- [The War Hotel: Psychological Dynamics in Violent Conflict.DP - 2005](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc5&AN=2004-21955-000) _2005_ published in _No Journal_
 
 ### 2004
 - [Advocating multi-disciplinarity in studying complex emergencies: the limitations of a psychological approach to understanding how young people cope with prolonged conflict in Gaza](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15293384) _2004_ published in _J Biosoc Sci_
