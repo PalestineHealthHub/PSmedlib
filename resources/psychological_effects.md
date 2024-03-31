@@ -52,6 +52,7 @@
 - [Mental health and decisions under risk among refugees and the public in Lebanon](no-link) _2021_ published in _Hum. Soc. Sci. Commun._
 
 ### 2020
+- [Interdependence between health and peace: a call for a new paradigm](https://academic.oup.com/heapro/article-abstract/35/6/1590/5812747?redirectedFrom=PDF&casa_token=0MCvmQtdazIAAAAA:TK1K2ARGPO2DMRPSvhKbCD-JoQy3FHz2cJJEr3n3OcYHeVv9iFFsk8De3YBV4T3Gy-5qLUwDCB2QNg) _2020_ published in _Health Promot. Int._
 - [Does sense of threat in civilians during an armed conflict predict subsequent depression symptoms?](http://dx.doi.org/10.1002/jclp.22935) _2020_ published in _J Clin Psychol_
 - [Social suffering and the psychological impact of structural violence and economic oppression in an ongoing conflict setting: The Gaza Strip](http://dx.doi.org/10.1002/jcop.22367) _2020_ published in _J Community Psychol_
 - [Dreaming under fire: the psyche in times of continuous stress](http://dx.doi.org/10.1111/1468-5922.12570) _2020_ published in _J Anal Psychol_
