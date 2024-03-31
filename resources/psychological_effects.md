@@ -60,7 +60,7 @@
 - [Anxiety disorders and PTSD in Palestine: a literature review](http://dx.doi.org/10.1186/s12888-020-02911-7) _2020_ published in _BMC Psychiatry_
 - [Schizophrenia in the context of mental health services in Palestine: a literature review](http://dx.doi.org/10.1186/s13033-020-00375-6) _2020_ published in _Int. j. ment. health syst._
 - [Positive mental health moderates the association between PTSD symptoms and subjective accelerated aging among older adults](http://dx.doi.org/10.1017/s1041610220001349) _2020_ published in _Int Psychogeriatr_
-- [CB-Art Interventions Implemented with Mental Health Professionals Working in a Shared War Reality: Transforming Negative Images and Enhancing Coping Resources](http://dx.doi.org/10.3390/ijerph17072287) _2020_ published in _No Journal_
+- [CB-Art Interventions Implemented with Mental Health Professionals Working in a Shared War Reality: Transforming Negative Images and Enhancing Coping Resources](http://dx.doi.org/10.3390/ijerph17072287) _2020_ published in _Int. J. Environ. Res._
 - [Agency and life satisfaction in Bedouin children exposed to conditions of chronic stress and military violence: A two-wave longitudinal study in Palestine](http://dx.doi.org/10.1177/1359104519864134) _2020_ published in _Clin. child psychol. psychiatry_
 - [Exposure to violence and its relationship to mental health among young people in Palestine](http://dx.doi.org/10.26719/2020.26.2.189) _2020_ published in _East Mediterr Health J_
 - [The Arab region’s contribution to global mental health research (2009–2018): A bibliometric analysis](https://www.embase.com/search/results?subaction=viewrecord&id=L634054226&from=export) _2020_ published in _Front Psychiatry_
