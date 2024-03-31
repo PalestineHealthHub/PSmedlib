@@ -8,6 +8,7 @@
 - [Wars in Gaza and Beyond: Why Protecting the Sacredness of Health Matters](https://www.embase.com/search/results?subaction=viewrecord&id=L2029053351&from=export) _2024_ published in _JAMA_
 - [The health dimensions of violence in Palestine: a call to prevent genocide](https://www.embase.com/search/results?subaction=viewrecord&id=L2029280516&from=export) _2024_ published in _Lancet_
 - [Jaspersian Principles for Achieving Lasting Peace in the Palestine-Israel Conflict](https://www.embase.com/search/results?subaction=viewrecord&id=L2028952146&from=export) _2024_ published in _Asian J Psychiatry_
+
 ### 2023
 - [Addressing the Effects of War on Gaza's Healthcare System](http://dx.doi.org/10.7759/cureus.50036) _2023_ published in _Cureus_
 - [Investigating the impact of COVID-19 on patients with cancer from areas of conflict within the MENA region treated at King Hussein Cancer Center](http://dx.doi.org/10.3389/fonc.2023.1088000) _2023_ published in _Front. oncol._
