@@ -15,7 +15,6 @@
 - [Antimicrobial resistance in the ongoing Gaza war: a silent threat](http://dx.doi.org/10.1016/s0140-6736(23)02508-4) _2023_ published in _Lancet_
 - [Sleep habits and quality among war and conflict-affected Palestinian adults in the Gaza strip](http://dx.doi.org/10.1016/j.sleep.2022.12.025) _2023_ published in _Sleep Med_
 - [Protecting health facilities during wars in the COVID-19 era: A case study of the Indonesian Hospital in the Gaza Strip in the Palestinian Territories](http://dx.doi.org/10.5055/jem.0793) _2023_ published in _J Emerg Manag_
-- [War and peace: Israeli physicians treating Palestinian patients](https://www.embase.com/search/results?subaction=viewrecord&id=L2028425397&from=export) _2023_ published in _Lancet_
 - [Gaza disaster: we need a permanent ceasefire, now!](https://www.embase.com/search/results?subaction=viewrecord&id=L2027268123&from=export) _2023_ published in _East Mediterr Health J_
 - [End the violence and help the victims in Gaza](https://www.embase.com/search/results?subaction=viewrecord&id=L2027995802&from=export) _2023_ published in _Lancet_
 - [The price of silence: time to address the hidden cost of domestic violence in academic medicine](https://www.embase.com/search/results?subaction=viewrecord&id=L2023342570&from=export) _2023_ published in _Lancet Psychiatry_
@@ -77,7 +76,6 @@
 - [Intergroup Conflict Self-Perpetuates via Meaning: Exposure to Intergroup Conflict Increases Meaning and Fuels a Desire for Further Conflict](no-link) _2019_ published in _J. Pers. Soc. Psychol._
 - [Emotion Regulation and Attitudes Toward Conflict in Colombia: Effects of Reappraisal Training on Negative Emotions and Support for Conciliatory and Aggressive Statements](no-link) _2019_ published in _Front. Psychol._
 - [Palestinians fighting against Nazis: The story of Palestinian volunteers in the Second World War](no-link) _2019_ published in _War Hist._
-- [Emotions, Risk Perceptions and Precautionary Actions of Citizens During a Military Operation Using a New Defence Technology: The Israeli Case of the Iron Dome](no-link) _2019_ published in _Def. Peace Econ._
 - [Fathers detained, contact restrained: Experiences of Palestinian children visiting their fathers in Israeli detention](no-link) _2019_ published in _Child Abuse Negl._
 
 ### 2018
@@ -90,13 +88,11 @@
 - [On-air under fire: media and community resilience in post-heroic wars](no-link) _2018_ published in _Isr. Aff._
 - [Factors mediating the impacts of child abuse and intimate partner violence on chronic pain: a cross-sectional study](no-link) _2018_ published in _BMC Womens Health_
 - [Palestinian adolescents' exposure to community violence and internalizing and externalizing symptoms: Parental factors as mediators](no-link) _2018_ published in _Child. Youth Serv. Rev._
-- [The making of military heroes by the Israeli media](no-link) _2018_ published in _Isr. Aff._
 - [Ecological approach to academic achievement in the face of war and military violence: Mediating and moderating role of school, family, and child characteristics](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc17&AN=2018-42875-002) _2018_ published in _The Elementary School Journal_
 
 ### 2017
 - [The Palestinian-Israeli conflict: a disease for which root causes must be acknowledged and treated](http://dx.doi.org/10.1080/13623699.2017.1344378) _2017_ published in _Med Confl Surviv_
 - [Blood and conflict: Managing bleeding disorders in Gaza](https://www.embase.com/search/results?subaction=viewrecord&id=L620313149&from=export) _2017_ published in _East Mediterr Health J_
-- [Exposure to Violence, Ethos of Conflict, and Support for Compromise: Surveys in Israel, East Jerusalem, West Bank, and Gaza](no-link) _2017_ published in _J. Confl. Resolut._
 - [The Israeli-Palestinian conflict: Meta-analysis of exposure and outcome relations for children of the region](no-link) _2017_ published in _Child. Youth Serv. Rev._
 - [The Israeli-Palestinian conflict: Effects on youth adjustment, available interventions, and future research directions](no-link) _2017_ published in _Dev. Rev._
 - [Coping strategies among conflict-affected adults in low- and middle-income countries: A systematic literature review](no-link) _2017_ published in _Glob. Public Health_
@@ -108,7 +104,6 @@
 - [How Personality Affects Vulnerability among Israelis and Palestinians following the 2009 Gaza Conflict](http://dx.doi.org/10.1371/journal.pone.0156278) _2016_ published in _PLoS ONE_
 - [Bedouin Children and Their Reality Perceptions of the War Between Israel and Gaza](no-link) _2016_ published in _J. Muslim Minor. Aff._
 - [Violence in the "Ayn al-Hilweh Palestinian refugee camp in Lebanon, 2007-2009](no-link) _2016_ published in _Int. Soc. Work_
-- [Young Children in Intractable Conflicts: The Israeli Case](no-link) _2016_ published in _Pers. Soc. Psychol. Rev._
 - [Children of the postwar years: A two-generational multilevel risk assessment of child psychopathology in northern Uganda](no-link) _2016_ published in _Dev. Psychopathol._
 - [Two practitioners' participation in an online discussion concerning psychoanalysis and the Palestinian-Israeli conflict](no-link) _2016_ published in _Psychoanal. Cult. Soc._
 - [Non-violence as respect for all suffering: Thoughts inspired by Eyad El Sarraj](no-link) _2016_ published in _Psychoanal. Cult. Soc._
@@ -118,8 +113,6 @@
 
 ### 2015
 - [Group treatment for survivors of torture and severe violence: A literature review](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27857004) _2015_ published in _Torture_
-- [Risk factors for DSM 5 PTSD symptoms in Israeli civilians during the Gaza war](http://dx.doi.org/10.1002/brb3.316) _2015_ published in _Brain Behav_
-- [Explaining the frequency of alcohol consumption in a conflict zone: Jews and Palestinians in Israel](http://dx.doi.org/10.1016/j.addbeh.2015.02.003) _2015_ published in _Addict Behav_
 - [Intrapersonal Resilience Moderates the Association Between Exposure-Severity and PTSD Symptoms Among Civilians Exposed to the 2014 Israel-Gaza Conflict](no-link) _2015_ published in _Self Identity_
 - [Protecting children in a situation of ongoing conflict: Is resilience sufficient as the end product?](no-link) _2015_ published in _Int. J. Disaster Risk Reduct._
 - [Autobiographical memories for negative and positive events in war contexts](no-link) _2015_ published in _Anu. Psicol. Jurid._
@@ -130,17 +123,14 @@
 ### 2014
 - [Israel-Gaza conflict](https://www.embase.com/search/results?subaction=viewrecord&id=L53285703&from=export) _2014_ published in _Lancet_
 - [Protected by Ethos in a Protracted Conflict? A Comparative Study among Israelis and Palestinians in the West Bank, Gaza, and East Jerusalem](no-link) _2014_ published in _J. Confl. Resolut._
-- ["Living in a movie" - Israeli women combatants in conflict zones](no-link) _2014_ published in _Women Stud. Int. Forum_
 - [Adverse health effects of spousal violence among women attending Saudi Arabian primary health-care clinics](no-link) _2014_ published in _East Mediterr. Health J._
 - [Mass casualty potential of Qassam rockets.DP - Mar 2014](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc13&AN=2014-06230-003) _2014_ published in _Studies in Conflict & Terrorism_
 
 ### 2013
 - [Violence against women in the context of war: experiences of Shi'i women and Palestinian refugee women in Lebanon](http://dx.doi.org/10.1177/1077801213485550) _2013_ published in _Violence Against Women_
-- [The differential impact of terrorism on two Israeli communities](http://dx.doi.org/10.1111/ajop.12044) _2013_ published in _Am J Orthopsychiatry_
 - [Psychometric Properties of IES-R, Short Arabic Version in Contexts of Military Violence](no-link) _2013_ published in _Res. Soc. Work. Pract._
 - [Intimate Partner Violence in the Occupied Palestinian Territory: Prevalence and Risk Factors](no-link) _2013_ published in _J. Fam. Violence_
 - [Symptoms of PTSD among Children Living in War Zones in Same Cultural Context and Different Situations](no-link) _2013_ published in _J. Muslim Ment. Health_
-- [Editorial: Psychiatry and conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc12&AN=2014-11571-001) _2013_ published in _Israel Journal of Psychiatry and Related Sciences_
 
 ### 2012
 - [Neuroscience and "real world" practice: music as a therapeutic resource for children in zones of conflict](http://dx.doi.org/10.1111/j.1749-6632.2012.06473.x) _2012_ published in _Ann N Y Acad Sci_
@@ -163,18 +153,14 @@
 ### 2010
 - [Adjustment disorders after severe life-events in four postconflict settings](http://dx.doi.org/10.1007/s00127-009-0039-z) _2010_ published in _Soc Psychiatry Psychiatr Epidemiol_
 - [Exposure to conflict and violence across contexts: relations to adjustment among Palestinian children](http://dx.doi.org/10.1080/15374410903401153) _2010_ published in _J Clin Child Adolesc Psychol_
-- [Perceptions of the Holocaust of Palestinian Young Adults, Citizens of Israel](no-link) _2010_ published in _Peace Confl._
 - [Peaceful use of disastrous neurotoxicants](no-link) _2010_ published in _Neurotoxicology_
 - [War, suicide and sacrifice.DP - 2010](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2012-24620-046) _2010_ published in _Fink, George [Ed]_
 - [The use of narrative-experiential instruments in contexts of military violence: The case of Palestinian children in the West Bank](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc9&AN=2010-25478-006) _2010_ published in _Counselling Psychology Quarterly_
 
 ### 2009
-- [The Defensive Nature of Benefit Finding during Ongoing Terrorism: An Examination of a National Sample of Israeli Jews](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22058603) _2009_ published in _J Soc Clin Psychol_
 - [A single, improvised "Kassam" rocket explosion can cause a mass casualty incident: a potential threat for future international terrorism?](http://dx.doi.org/10.1136/emj.2008.061143) _2009_ published in _Emerg Med J_
 - [Parenting support and PTSD in children of a war zone](http://dx.doi.org/10.1177/0020764008096100) _2009_ published in _Int J Soc Psychiatry_
 - [Israel-Gaza conflict](https://www.embase.com/search/results?subaction=viewrecord&id=L354277438&from=export) _2009_ published in _Lancet_
-- [Israel-Gaza conflict](https://www.embase.com/search/results?subaction=viewrecord&id=L354277442&from=export) _2009_ published in _Lancet_
-- [Gender Differences in PTSD in Israeli Youth Exposed to Terror Attacks](no-link) _2009_ published in _J. Interpers. Violence_
 - [Doctors call for children injured in Gaza conflict to be monitored for long term effects of new weapons](no-link) _2009_ published in _Br. Med. J._
 
 ### 2008
@@ -223,7 +209,6 @@
 - [Israeli-Palestinian conflict. Need for medical services for Palestinians injured in West Bank is urgent](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11834571) _2002_ published in _BMJ_
 - [Emotional problems in Palestinian children living in a war zone](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=inleurlib_fft&cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12384014) _2002_ published in _Lancet_
 - [Emotional problems in Palestinian children living in a war zone: A cross-sectional study](https://www.embase.com/search/results?subaction=viewrecord&id=L34607054&from=export) _2002_ published in _Lancet_
-- [The Impact of Terrorism on Palestinians in Israel: An Interview with Eyad El-Sarraj.DP - 2002](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc4&AN=2004-12293-007) _2002_ published in _Gold, Steven N [Ed]_
 
 ### 2000
 - [Cultural identity and demonization of the relevant other: Lessons from the Palestinian-Israeli conflict](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc3&AN=2000-07088-008) _2000_ published in _Shalev, Arieh Y [Ed]_
