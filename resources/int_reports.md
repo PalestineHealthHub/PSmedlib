@@ -1,5 +1,5 @@
 # Data & Reports by Global Health & Humanitarian Organizations
-
+[Back to main page](/README.md)
 ## Health Impact Projections (Gaza)
 - [**Crisis in Gaza: Scenario-Based Health Impact Projections**](https://gaza-projections.org/) _(current)_
 
