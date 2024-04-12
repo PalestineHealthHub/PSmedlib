@@ -5,6 +5,7 @@
 
 ### 2024
 - [Israeli necropolitics and the pursuit of health justice in Palestine](https://gh.bmj.com/content/9/2/e014942) _2024_ published in _BMJ Glob. Health_
+- [The Rhetoric of Decolonizing Global Health Fails to Address the Reality of Settler Colonialism: Gaza as a Case in Point](https://www.ijhpm.com/article_4577.html) _2024_ published in _IJHPM_
 
 
 ### 2023
