@@ -7,7 +7,6 @@
 - [Israeli necropolitics and the pursuit of health justice in Palestine](https://gh.bmj.com/content/9/2/e014942) _2024_ published in _BMJ Glob. Health_
 - [The Rhetoric of Decolonizing Global Health Fails to Address the Reality of Settler Colonialism: Gaza as a Case in Point](https://www.ijhpm.com/article_4577.html) _2024_ published in _IJHPM_
 
-
 ### 2023
 - [Psychosocial problems of healthcare for pregnant refugees – a systematic review](https://www.embase.com/search/results?subaction=viewrecord&id=L2029776460&from=export) _2023_ published in _Psychiatr Psychol Klin_
 - [Jil Oslo Generation Palestinians and the Fight for Human Rights](no-link) _2023_ published in _Crit. Sociol._
